@@ -1,7 +1,7 @@
 import sys
-
+import os
 import mlflow
-from predict import predict_employee
+
 import pandas as pd
 from evaluate import evaluate_model
 from model import save_model, validate_model
@@ -23,9 +23,12 @@ from preprocessing import (
 from model import save_model
 
 
-MODEL_PATH = (
-    r"C:\Users\tejch\OneDrive\Desktop\Python_Practice"
-    r"\Emp_attrition\models\attrition_pipeline.pkl"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+MODEL_PATH = os.path.join(
+    BASE_DIR,
+    "models",
+    "attrition_pipeline.pkl"
 )
 
 
