@@ -1,0 +1,1474 @@
+﻿Age,Attrition,Department,Education,EmployeeId,JobRole,JobSatisfaction,MonthlyIncome,OverTime,YearsAtCompany
+41,Yes,Sales,Life Sciences,1,Sales Executive,4,5993,Yes,6
+49,No,Research & Development,Life Sciences,2,Research Scientist,2,5130,No,10
+37,Yes,Research & Development,Other,4,Laboratory Technician,3,2090,Yes,0
+33,No,Research & Development,Life Sciences,5,Research Scientist,3,2909,Yes,8
+27,No,Research & Development,Medical,7,Laboratory Technician,2,3468,No,2
+32,No,Research & Development,Life Sciences,8,Laboratory Technician,4,3068,No,7
+59,No,Research & Development,Medical,10,Laboratory Technician,1,2670,Yes,1
+30,No,Research & Development,Life Sciences,11,Laboratory Technician,3,2693,No,1
+38,No,Research & Development,Life Sciences,12,Manufacturing Director,3,9526,No,9
+36,No,Research & Development,Medical,13,Healthcare Representative,3,5237,No,7
+35,No,Research & Development,Medical,14,Laboratory Technician,2,2426,No,5
+29,No,Research & Development,Life Sciences,15,Laboratory Technician,3,4193,Yes,9
+31,No,Research & Development,Life Sciences,16,Research Scientist,3,2911,No,5
+34,No,Research & Development,Medical,18,Laboratory Technician,4,2661,No,2
+28,Yes,Research & Development,Life Sciences,19,Laboratory Technician,3,2028,Yes,4
+29,No,Research & Development,Life Sciences,20,Manufacturing Director,1,9980,No,10
+32,No,Research & Development,Life Sciences,21,Research Scientist,2,3298,Yes,6
+22,No,Research & Development,Medical,22,Laboratory Technician,4,2935,Yes,1
+53,No,Sales,Life Sciences,23,Manager,4,15427,No,25
+38,No,Research & Development,Life Sciences,24,Research Scientist,4,3944,Yes,3
+24,No,Research & Development,Other,26,Manufacturing Director,3,4011,No,4
+36,Yes,Sales,Life Sciences,27,Sales Representative,1,3407,No,5
+34,No,Research & Development,Life Sciences,28,Research Director,2,11994,No,12
+21,No,Research & Development,Life Sciences,30,Research Scientist,4,1232,No,0
+34,Yes,Research & Development,Medical,31,Research Scientist,1,2960,No,4
+53,No,Research & Development,Other,32,Manager,3,19094,No,14
+32,Yes,Research & Development,Life Sciences,33,Research Scientist,1,3919,Yes,10
+42,No,Sales,Marketing,35,Sales Executive,2,6825,No,9
+44,No,Research & Development,Medical,36,Healthcare Representative,4,10248,No,22
+46,No,Sales,Marketing,38,Manager,1,18947,No,2
+33,No,Research & Development,Medical,39,Laboratory Technician,4,2496,No,1
+44,No,Research & Development,Other,40,Healthcare Representative,4,6465,Yes,4
+30,No,Research & Development,Medical,41,Laboratory Technician,3,2206,No,10
+39,Yes,Sales,Technical Degree,42,Sales Representative,4,2086,No,1
+24,Yes,Research & Development,Medical,45,Research Scientist,4,2293,Yes,2
+43,No,Research & Development,Medical,46,Research Scientist,3,2645,No,5
+50,Yes,Sales,Marketing,47,Sales Representative,3,2683,Yes,3
+35,No,Sales,Marketing,49,Sales Representative,4,2014,No,2
+36,No,Research & Development,Life Sciences,51,Research Scientist,1,3419,Yes,1
+33,No,Sales,Life Sciences,52,Sales Executive,1,5376,No,5
+35,No,Research & Development,Other,53,Laboratory Technician,4,1951,No,1
+27,No,Research & Development,Life Sciences,54,Laboratory Technician,1,2341,No,1
+26,Yes,Research & Development,Life Sciences,55,Laboratory Technician,3,2293,No,1
+27,No,Sales,Life Sciences,56,Sales Executive,3,8726,No,9
+30,No,Research & Development,Medical,57,Laboratory Technician,4,4011,No,12
+41,Yes,Research & Development,Technical Degree,58,Research Director,3,19545,No,22
+34,No,Sales,Marketing,60,Sales Executive,3,4568,No,9
+37,No,Research & Development,Life Sciences,61,Research Scientist,2,3022,No,1
+46,No,Sales,Marketing,62,Sales Executive,4,5772,Yes,9
+35,No,Research & Development,Life Sciences,63,Laboratory Technician,4,2269,No,1
+48,Yes,Research & Development,Life Sciences,64,Laboratory Technician,3,5381,Yes,1
+28,Yes,Research & Development,Technical Degree,65,Laboratory Technician,3,3441,Yes,2
+44,No,Sales,Marketing,68,Sales Executive,1,5454,Yes,4
+35,No,Research & Development,Medical,70,Healthcare Representative,1,9884,Yes,4
+26,No,Sales,Marketing,72,Sales Executive,4,4157,Yes,2
+33,No,Research & Development,Life Sciences,73,Research Director,4,13458,Yes,15
+35,No,Sales,Life Sciences,74,Sales Executive,1,9069,No,9
+35,No,Research & Development,Medical,75,Laboratory Technician,1,4014,Yes,2
+31,No,Research & Development,Life Sciences,76,Laboratory Technician,4,5915,No,7
+37,No,Research & Development,Life Sciences,77,Manufacturing Director,3,5993,No,7
+32,No,Research & Development,Medical,78,Manufacturing Director,4,6162,Yes,9
+38,No,Research & Development,Life Sciences,79,Laboratory Technician,4,2406,No,10
+50,No,Research & Development,Medical,80,Research Director,3,18740,Yes,27
+59,No,Sales,Life Sciences,81,Sales Executive,1,7637,No,21
+36,No,Research & Development,Technical Degree,83,Healthcare Representative,3,10096,No,17
+55,No,Research & Development,Medical,84,Manager,3,14756,Yes,5
+36,No,Research & Development,Life Sciences,85,Manufacturing Director,2,6499,No,6
+45,No,Research & Development,Life Sciences,86,Research Scientist,1,9724,No,1
+35,No,Research & Development,Medical,88,Research Scientist,1,2194,No,3
+36,Yes,Research & Development,Medical,90,Research Scientist,3,3388,Yes,1
+59,No,Sales,Life Sciences,91,Sales Executive,3,5473,No,4
+29,No,Research & Development,Life Sciences,94,Research Scientist,2,2703,No,5
+31,No,Research & Development,Medical,95,Research Scientist,2,2501,No,1
+32,No,Research & Development,Life Sciences,96,Research Scientist,2,6220,No,10
+36,No,Research & Development,Life Sciences,97,Laboratory Technician,4,3038,No,1
+31,No,Research & Development,Life Sciences,98,Manufacturing Director,4,4424,No,11
+35,No,Sales,Marketing,100,Sales Executive,1,4312,No,15
+45,No,Research & Development,Other,101,Research Director,1,13245,Yes,0
+37,No,Research & Development,Medical,102,Research Director,3,13664,No,5
+46,No,Human Resources,Medical,103,Human Resources,2,5021,Yes,4
+30,No,Research & Development,Life Sciences,104,Laboratory Technician,4,5126,Yes,10
+35,No,Research & Development,Medical,105,Research Scientist,3,2859,No,6
+55,No,Sales,Life Sciences,106,Sales Executive,4,10239,No,1
+38,No,Research & Development,Medical,107,Research Scientist,4,5329,Yes,13
+34,No,Research & Development,Medical,110,Manufacturing Director,2,4325,No,5
+56,No,Research & Development,Life Sciences,112,Manufacturing Director,4,7260,No,6
+23,No,Sales,Technical Degree,113,Sales Representative,1,2322,No,0
+51,No,Research & Development,Life Sciences,116,Laboratory Technician,4,2075,No,4
+30,No,Research & Development,Life Sciences,117,Healthcare Representative,4,4152,No,11
+46,Yes,Sales,Medical,118,Sales Executive,4,9619,No,9
+40,No,Research & Development,Life Sciences,119,Healthcare Representative,2,13503,No,22
+51,No,Sales,Marketing,120,Sales Executive,4,5441,Yes,10
+30,No,Sales,Medical,121,Sales Executive,2,5209,Yes,11
+46,No,Research & Development,Medical,124,Healthcare Representative,1,10673,Yes,10
+32,No,Sales,Medical,125,Sales Executive,3,5010,No,11
+54,No,Research & Development,Technical Degree,126,Research Director,3,13549,No,4
+24,No,Sales,Other,128,Sales Executive,3,4999,No,3
+28,No,Sales,Medical,129,Sales Executive,3,4221,No,5
+58,No,Sales,Medical,131,Sales Executive,3,13872,No,37
+44,No,Research & Development,Medical,132,Laboratory Technician,2,2042,No,3
+37,Yes,Human Resources,Human Resources,133,Human Resources,1,2073,Yes,3
+32,No,Research & Development,Life Sciences,134,Research Scientist,1,2956,No,1
+20,Yes,Research & Development,Life Sciences,137,Laboratory Technician,4,2926,Yes,1
+34,No,Research & Development,Other,138,Research Scientist,3,4809,No,16
+37,No,Research & Development,Life Sciences,139,Healthcare Representative,4,5163,No,1
+59,No,Human Resources,Human Resources,140,Manager,4,18844,No,3
+50,No,Research & Development,Life Sciences,141,Research Director,2,18172,Yes,8
+25,Yes,Sales,Marketing,142,Sales Executive,3,5744,Yes,6
+25,No,Research & Development,Medical,143,Research Scientist,4,2889,No,2
+22,No,Research & Development,Medical,144,Laboratory Technician,4,2871,No,0
+51,No,Research & Development,Medical,145,Healthcare Representative,1,7484,No,13
+34,Yes,Research & Development,Life Sciences,147,Laboratory Technician,3,6074,Yes,9
+54,No,Human Resources,Human Resources,148,Manager,4,17328,Yes,5
+24,No,Research & Development,Life Sciences,150,Laboratory Technician,3,2774,No,5
+34,No,Research & Development,Life Sciences,151,Research Scientist,2,4505,No,1
+37,No,Sales,Life Sciences,152,Sales Executive,4,7428,No,5
+34,No,Research & Development,Medical,153,Manager,1,11631,No,11
+36,No,Sales,Technical Degree,154,Sales Executive,4,9738,No,9
+36,No,Research & Development,Life Sciences,155,Laboratory Technician,4,2835,No,1
+43,No,Sales,Life Sciences,158,Manager,4,16959,Yes,25
+30,No,Research & Development,Life Sciences,159,Research Scientist,3,2613,No,10
+33,No,Sales,Marketing,160,Sales Executive,2,6146,No,7
+56,Yes,Research & Development,Life Sciences,161,Research Scientist,2,4963,Yes,5
+51,No,Research & Development,Life Sciences,162,Research Director,3,19537,No,20
+31,Yes,Sales,Life Sciences,163,Sales Executive,3,6172,Yes,7
+26,No,Research & Development,Other,164,Research Scientist,2,2368,No,5
+58,Yes,Research & Development,Medical,165,Healthcare Representative,4,10312,No,40
+19,Yes,Sales,Marketing,167,Sales Representative,3,1675,Yes,0
+22,No,Research & Development,Technical Degree,169,Laboratory Technician,4,2523,No,2
+49,No,Research & Development,Medical,170,Manufacturing Director,1,6567,No,15
+43,No,Research & Development,Medical,171,Research Scientist,3,4739,No,3
+50,No,Sales,Marketing,174,Sales Executive,4,9208,No,2
+31,Yes,Sales,Life Sciences,175,Sales Executive,3,4559,Yes,2
+41,No,Sales,Life Sciences,176,Sales Executive,3,8189,Yes,9
+26,No,Human Resources,Life Sciences,177,Human Resources,3,2942,No,8
+36,No,Research & Development,Medical,178,Manufacturing Director,2,4941,No,3
+51,Yes,Research & Development,Life Sciences,179,Manufacturing Director,4,10650,No,4
+39,No,Sales,Life Sciences,182,Sales Executive,3,5902,No,15
+25,No,Sales,Life Sciences,183,Sales Executive,3,8639,No,2
+30,No,Human Resources,Human Resources,184,Human Resources,4,6347,Yes,11
+32,Yes,Research & Development,Medical,190,Laboratory Technician,1,4200,No,5
+45,No,Research & Development,Medical,192,Research Scientist,4,3452,No,6
+38,No,Research & Development,Technical Degree,193,Research Scientist,3,4317,Yes,3
+30,No,Research & Development,Life Sciences,194,Research Scientist,3,2632,No,5
+32,No,Sales,Medical,195,Sales Executive,4,4668,No,8
+30,No,Research & Development,Technical Degree,197,Research Scientist,1,3204,No,3
+30,No,Research & Development,Medical,198,Laboratory Technician,4,2720,No,5
+41,No,Research & Development,Life Sciences,199,Manager,1,17181,No,7
+41,No,Research & Development,Life Sciences,200,Laboratory Technician,1,2238,No,5
+19,No,Research & Development,Medical,201,Laboratory Technician,2,1483,No,1
+40,No,Research & Development,Medical,202,Research Scientist,2,5605,No,20
+35,No,Sales,Marketing,204,Sales Executive,2,7295,No,10
+53,No,Sales,Marketing,205,Sales Representative,3,2306,Yes,7
+45,No,Research & Development,Life Sciences,206,Laboratory Technician,2,2348,No,17
+32,No,Sales,Marketing,207,Sales Executive,4,8998,No,9
+29,No,Research & Development,Technical Degree,208,Manufacturing Director,3,4319,No,10
+51,No,Research & Development,Medical,211,Manufacturing Director,3,6132,No,1
+58,No,Research & Development,Medical,214,Research Scientist,2,3346,Yes,1
+40,No,Sales,Marketing,215,Sales Executive,4,10855,No,12
+34,No,Sales,Marketing,216,Sales Representative,3,2231,No,4
+22,No,Research & Development,Medical,217,Research Scientist,4,2323,No,2
+27,No,Research & Development,Medical,218,Research Scientist,2,2024,No,2
+28,No,Research & Development,Medical,221,Research Scientist,4,2713,No,5
+57,No,Research & Development,Life Sciences,223,Healthcare Representative,4,9439,Yes,5
+27,No,Research & Development,Medical,224,Research Scientist,3,2566,Yes,1
+50,No,Research & Development,Life Sciences,226,Manager,2,19926,No,5
+41,No,Research & Development,Life Sciences,227,Research Scientist,3,2451,No,9
+30,No,Sales,Life Sciences,228,Sales Executive,4,9419,No,10
+38,No,Sales,Life Sciences,230,Sales Executive,4,8686,No,8
+32,No,Research & Development,Life Sciences,231,Research Scientist,3,3038,No,5
+27,No,Research & Development,Technical Degree,233,Research Scientist,2,3058,Yes,5
+19,Yes,Sales,Technical Degree,235,Sales Representative,1,2325,No,0
+36,No,Research & Development,Medical,238,Laboratory Technician,2,2088,No,8
+30,No,Research & Development,Medical,239,Laboratory Technician,1,3072,No,12
+45,No,Sales,Life Sciences,240,Sales Executive,1,5006,Yes,5
+56,No,Research & Development,Life Sciences,241,Research Scientist,1,4257,Yes,2
+33,No,Research & Development,Life Sciences,242,Research Scientist,4,2500,No,3
+19,Yes,Research & Development,Life Sciences,243,Laboratory Technician,4,1102,No,1
+46,No,Sales,Marketing,244,Sales Executive,1,10453,No,24
+38,No,Research & Development,Life Sciences,245,Laboratory Technician,4,2288,No,2
+31,No,Research & Development,Medical,246,Research Scientist,4,3929,Yes,4
+34,No,Research & Development,Medical,247,Research Scientist,2,2311,No,3
+41,Yes,Sales,Marketing,248,Sales Representative,2,3140,Yes,4
+50,No,Research & Development,Medical,249,Laboratory Technician,3,3690,No,3
+53,No,Research & Development,Medical,250,Manufacturing Director,1,4450,No,4
+33,No,Research & Development,Medical,252,Research Scientist,2,2756,No,8
+40,No,Research & Development,Medical,253,Manager,3,19033,No,20
+55,No,Research & Development,Medical,254,Research Director,2,18722,No,24
+34,No,Research & Development,Life Sciences,256,Manufacturing Director,3,9547,No,10
+51,No,Research & Development,Medical,258,Healthcare Representative,2,13734,No,7
+52,No,Research & Development,Life Sciences,259,Manager,3,19999,No,33
+27,No,Research & Development,Medical,260,Research Scientist,2,2279,No,7
+35,Yes,Research & Development,Life Sciences,261,Manufacturing Director,3,5916,Yes,1
+43,No,Research & Development,Medical,262,Research Scientist,4,2089,No,5
+45,No,Research & Development,Medical,264,Manager,4,16792,No,20
+37,No,Research & Development,Life Sciences,267,Research Scientist,1,3564,Yes,8
+35,No,Research & Development,Medical,269,Laboratory Technician,2,4425,No,6
+42,No,Research & Development,Medical,270,Manufacturing Director,3,5265,No,5
+38,No,Research & Development,Life Sciences,271,Manufacturing Director,3,6553,No,1
+38,No,Research & Development,Technical Degree,273,Manufacturing Director,4,6261,No,7
+27,No,Research & Development,Technical Degree,274,Manufacturing Director,1,4298,No,2
+49,No,Research & Development,Life Sciences,275,Manufacturing Director,4,6804,Yes,7
+34,No,Research & Development,Medical,277,Research Scientist,3,3815,Yes,5
+40,No,Research & Development,Medical,281,Laboratory Technician,4,2741,Yes,7
+38,Yes,Research & Development,Medical,282,Healthcare Representative,1,6673,Yes,1
+29,Yes,Sales,Marketing,283,Sales Executive,4,7639,No,10
+22,No,Research & Development,Life Sciences,284,Research Scientist,2,2328,Yes,4
+36,No,Research & Development,Medical,286,Laboratory Technician,4,2153,No,8
+40,No,Research & Development,Life Sciences,287,Healthcare Representative,4,4876,No,3
+46,No,Research & Development,Medical,288,Healthcare Representative,1,9396,No,4
+32,Yes,Sales,Medical,291,Sales Executive,4,10400,No,14
+30,No,Research & Development,Life Sciences,292,Manufacturing Director,3,8474,No,11
+27,No,Sales,Life Sciences,293,Sales Executive,3,9981,No,7
+51,No,Research & Development,Life Sciences,296,Research Director,2,12490,No,10
+30,Yes,Research & Development,Technical Degree,297,Research Scientist,1,2657,Yes,5
+41,No,Sales,Life Sciences,298,Manager,4,13591,Yes,1
+30,Yes,Sales,Marketing,299,Sales Executive,1,6696,No,6
+29,Yes,Research & Development,Technical Degree,300,Research Scientist,3,2058,No,6
+45,No,Sales,Medical,302,Sales Executive,4,8865,No,19
+54,No,Sales,Marketing,303,Sales Executive,1,5940,No,6
+36,No,Research & Development,Life Sciences,304,Laboratory Technician,2,5914,No,13
+33,No,Research & Development,Medical,305,Research Scientist,2,2622,No,3
+37,No,Research & Development,Other,306,Research Director,4,12185,Yes,10
+38,No,Sales,Life Sciences,307,Sales Executive,3,10609,No,16
+31,No,Research & Development,Medical,308,Manufacturing Director,3,4345,No,5
+59,No,Research & Development,Life Sciences,309,Research Scientist,4,2177,No,1
+37,No,Sales,Marketing,311,Sales Representative,4,2793,No,9
+29,No,Sales,Medical,312,Sales Executive,4,7918,No,11
+35,No,Sales,Marketing,314,Sales Executive,3,8789,No,10
+29,Yes,Research & Development,Medical,315,Research Scientist,4,2389,Yes,4
+52,No,Research & Development,Life Sciences,316,Laboratory Technician,4,3212,No,2
+42,No,Research & Development,Technical Degree,319,Manager,4,19232,No,22
+59,No,Human Resources,Medical,321,Human Resources,3,2267,No,2
+50,No,Sales,Medical,323,Manager,4,19517,No,7
+33,Yes,Research & Development,Medical,325,Laboratory Technician,4,2436,Yes,5
+43,No,Sales,Marketing,327,Manager,4,16064,Yes,17
+33,Yes,Research & Development,Life Sciences,328,Laboratory Technician,1,2707,No,9
+52,No,Sales,Life Sciences,329,Manager,3,19068,Yes,33
+32,No,Sales,Life Sciences,330,Sales Representative,2,3931,No,4
+32,Yes,Research & Development,Life Sciences,331,Laboratory Technician,3,3730,Yes,3
+39,No,Research & Development,Medical,332,Laboratory Technician,3,2232,No,3
+32,No,Sales,Marketing,333,Sales Executive,4,4465,No,3
+41,No,Research & Development,Life Sciences,334,Research Scientist,1,3072,No,1
+40,No,Research & Development,Technical Degree,335,Research Scientist,4,3319,No,9
+45,No,Research & Development,Other,336,Manager,4,19202,No,24
+31,No,Research & Development,Medical,337,Research Director,3,13675,No,2
+33,No,Research & Development,Life Sciences,338,Research Scientist,4,2911,No,2
+34,No,Research & Development,Life Sciences,339,Manufacturing Director,1,5957,No,11
+37,No,Research & Development,Medical,340,Research Scientist,1,3920,No,3
+45,No,Research & Development,Life Sciences,341,Manufacturing Director,3,6434,No,3
+37,Yes,Research & Development,Medical,342,Manufacturing Director,3,10048,No,1
+39,No,Research & Development,Technical Degree,343,Healthcare Representative,3,10938,No,19
+29,No,Research & Development,Life Sciences,346,Research Scientist,4,2340,No,6
+42,No,Research & Development,Life Sciences,347,Research Scientist,1,6545,Yes,3
+29,No,Sales,Marketing,349,Sales Executive,4,6931,No,3
+25,No,Research & Development,Life Sciences,350,Manufacturing Director,3,4898,No,4
+42,No,Research & Development,Medical,351,Laboratory Technician,1,2593,Yes,9
+40,No,Research & Development,Medical,352,Research Director,3,19436,No,21
+51,No,Research & Development,Life Sciences,353,Research Scientist,4,2723,No,1
+31,Yes,Research & Development,Medical,355,Laboratory Technician,2,3479,No,5
+32,No,Research & Development,Life Sciences,359,Laboratory Technician,2,2794,No,5
+38,No,Sales,Life Sciences,361,Sales Executive,4,5249,No,8
+32,No,Research & Development,Technical Degree,362,Laboratory Technician,1,2176,No,6
+46,No,Sales,Technical Degree,363,Manager,2,16872,Yes,7
+28,Yes,Research & Development,Life Sciences,364,Laboratory Technician,3,3485,No,0
+29,No,Sales,Medical,366,Sales Executive,2,6644,No,0
+31,No,Research & Development,Medical,367,Healthcare Representative,4,5582,No,9
+25,No,Research & Development,Life Sciences,369,Healthcare Representative,1,4000,No,6
+45,No,Research & Development,Medical,372,Healthcare Representative,4,13496,Yes,20
+36,No,Research & Development,Life Sciences,373,Laboratory Technician,4,3210,No,15
+55,No,Research & Development,Medical,374,Manager,1,19045,Yes,36
+47,Yes,Research & Development,Life Sciences,376,Manager,2,11849,Yes,10
+28,No,Research & Development,Medical,377,Research Scientist,4,2070,No,5
+37,No,Sales,Medical,378,Sales Executive,4,6502,No,5
+21,No,Research & Development,Medical,379,Research Scientist,3,3230,No,3
+37,No,Research & Development,Medical,380,Research Director,4,13603,Yes,5
+35,No,Research & Development,Life Sciences,381,Manager,2,11996,No,7
+38,No,Sales,Medical,382,Sales Executive,1,5605,Yes,8
+26,No,Research & Development,Life Sciences,384,Manufacturing Director,2,6397,No,6
+50,No,Research & Development,Life Sciences,385,Research Director,2,19144,No,10
+53,No,Research & Development,Medical,386,Research Director,3,17584,Yes,5
+42,No,Sales,Life Sciences,387,Sales Executive,3,4907,No,20
+29,No,Sales,Life Sciences,388,Sales Executive,4,4554,No,10
+55,No,Research & Development,Technical Degree,389,Laboratory Technician,4,5415,Yes,10
+26,No,Research & Development,Medical,390,Healthcare Representative,1,4741,Yes,5
+37,No,Research & Development,Life Sciences,391,Research Scientist,4,2115,No,17
+44,Yes,Research & Development,Life Sciences,392,Laboratory Technician,3,3161,Yes,1
+38,No,Research & Development,Life Sciences,393,Healthcare Representative,4,5745,No,2
+26,Yes,Research & Development,Medical,394,Laboratory Technician,2,2373,Yes,3
+28,No,Research & Development,Life Sciences,395,Research Scientist,4,3310,No,5
+49,No,Research & Development,Life Sciences,396,Research Director,1,18665,Yes,3
+36,No,Research & Development,Technical Degree,397,Research Scientist,2,4485,No,8
+31,No,Sales,Marketing,399,Sales Representative,2,2789,No,2
+26,Yes,Sales,Marketing,401,Sales Executive,4,5828,Yes,8
+37,No,Research & Development,Medical,403,Research Scientist,4,2326,Yes,4
+42,No,Sales,Marketing,404,Sales Executive,2,13525,No,20
+18,Yes,Research & Development,Life Sciences,405,Laboratory Technician,3,1420,No,0
+35,No,Sales,Marketing,406,Sales Executive,2,8020,No,11
+36,No,Research & Development,Life Sciences,407,Laboratory Technician,4,3688,No,1
+51,No,Research & Development,Medical,408,Manufacturing Director,2,5482,No,4
+41,No,Sales,Life Sciences,410,Manager,2,16015,No,22
+18,No,Sales,Medical,411,Sales Representative,3,1200,No,0
+28,No,Research & Development,Medical,412,Healthcare Representative,1,5661,No,8
+31,No,Sales,Technical Degree,416,Sales Executive,4,6929,No,8
+39,No,Research & Development,Medical,417,Healthcare Representative,4,9613,No,18
+36,No,Research & Development,Life Sciences,419,Laboratory Technician,2,5674,No,9
+32,No,Sales,Life Sciences,420,Sales Executive,3,5484,No,13
+38,No,Research & Development,Life Sciences,421,Research Director,2,12061,No,10
+58,No,Research & Development,Life Sciences,422,Healthcare Representative,3,5660,Yes,5
+31,No,Research & Development,Technical Degree,423,Research Scientist,4,4821,Yes,5
+31,No,Human Resources,Human Resources,424,Human Resources,1,6410,No,2
+45,No,Research & Development,Life Sciences,425,Laboratory Technician,1,5210,No,24
+31,No,Research & Development,Life Sciences,426,Research Scientist,4,2695,Yes,2
+33,No,Research & Development,Life Sciences,428,Manager,2,11878,No,10
+39,No,Research & Development,Medical,429,Manager,1,17068,Yes,21
+43,No,Research & Development,Life Sciences,430,Laboratory Technician,4,2455,No,8
+49,No,Research & Development,Technical Degree,431,Healthcare Representative,3,13964,Yes,7
+52,Yes,Research & Development,Medical,433,Research Scientist,2,4941,No,8
+27,No,Research & Development,Life Sciences,434,Research Scientist,2,2478,Yes,4
+32,No,Sales,Technical Degree,436,Sales Executive,2,5228,Yes,13
+27,No,Sales,Life Sciences,437,Sales Executive,3,4478,Yes,5
+31,No,Sales,Marketing,438,Sales Executive,4,7547,No,7
+32,No,Research & Development,Medical,439,Research Scientist,4,5055,No,7
+28,Yes,Research & Development,Medical,440,Research Scientist,4,3464,Yes,3
+30,No,Research & Development,Medical,441,Research Scientist,4,5775,No,10
+31,No,Research & Development,Life Sciences,442,Manufacturing Director,3,8943,No,10
+39,No,Research & Development,Medical,444,Manager,4,19272,No,21
+39,Yes,Sales,Medical,445,Sales Executive,3,5238,Yes,1
+33,No,Sales,Marketing,446,Sales Executive,4,4682,No,7
+47,No,Research & Development,Life Sciences,447,Research Director,3,18300,No,3
+43,No,Research & Development,Life Sciences,448,Laboratory Technician,3,5257,No,9
+27,No,Sales,Marketing,449,Sales Executive,2,6349,Yes,5
+54,No,Research & Development,Life Sciences,450,Research Scientist,3,4869,No,4
+43,No,Research & Development,Life Sciences,451,Healthcare Representative,1,9985,No,1
+45,No,Research & Development,Other,452,Research Scientist,4,3697,No,10
+40,No,Sales,Medical,453,Sales Executive,4,7457,Yes,4
+29,Yes,Research & Development,Other,454,Laboratory Technician,1,2119,Yes,7
+29,No,Research & Development,Other,455,Laboratory Technician,4,3983,No,3
+30,No,Sales,Marketing,456,Sales Executive,3,6118,No,10
+27,No,Sales,Marketing,458,Sales Executive,2,6214,No,8
+37,No,Research & Development,Medical,460,Manufacturing Director,4,6347,No,6
+38,No,Research & Development,Life Sciences,461,Research Director,4,11510,Yes,11
+31,No,Research & Development,Medical,462,Manufacturing Director,4,7143,Yes,11
+29,No,Sales,Marketing,463,Sales Executive,2,8268,Yes,7
+35,No,Research & Development,Technical Degree,464,Manufacturing Director,2,8095,No,16
+23,No,Research & Development,Life Sciences,465,Research Scientist,4,2904,No,4
+41,No,Research & Development,Medical,466,Manufacturing Director,2,6032,Yes,5
+47,No,Sales,Medical,467,Sales Representative,3,2976,No,0
+42,No,Research & Development,Life Sciences,468,Research Director,4,15992,No,1
+29,No,Sales,Life Sciences,469,Sales Executive,3,4649,No,4
+42,No,Human Resources,Technical Degree,470,Human Resources,3,2696,Yes,3
+32,No,Research & Development,Medical,471,Laboratory Technician,2,2370,No,8
+48,No,Sales,Medical,473,Manager,3,12504,No,0
+37,No,Research & Development,Medical,474,Research Scientist,1,5974,Yes,7
+30,No,Sales,Technical Degree,475,Sales Executive,3,4736,Yes,2
+26,No,Sales,Life Sciences,476,Sales Executive,3,5296,No,8
+42,No,Research & Development,Other,477,Healthcare Representative,4,6781,No,1
+21,Yes,Sales,Technical Degree,478,Sales Representative,2,2174,Yes,3
+36,No,Sales,Medical,479,Sales Executive,4,6653,No,1
+36,No,Sales,Medical,481,Sales Executive,4,9699,No,13
+57,No,Research & Development,Medical,482,Healthcare Representative,3,6755,No,3
+40,No,Research & Development,Life Sciences,483,Laboratory Technician,3,2213,Yes,7
+21,No,Sales,Medical,484,Sales Representative,4,2610,No,3
+33,Yes,Sales,Marketing,485,Sales Representative,3,2851,Yes,1
+37,No,Research & Development,Medical,486,Laboratory Technician,1,3452,No,5
+46,No,Research & Development,Medical,487,Manufacturing Director,3,5258,No,1
+41,Yes,Sales,Marketing,488,Sales Executive,2,9355,No,8
+50,No,Research & Development,Technical Degree,491,Healthcare Representative,4,10496,No,4
+40,Yes,Sales,Marketing,492,Sales Executive,3,6380,Yes,6
+31,No,Research & Development,Life Sciences,493,Research Scientist,2,2657,Yes,2
+21,Yes,Sales,Life Sciences,494,Sales Representative,2,2716,No,1
+29,No,Research & Development,Life Sciences,495,Research Scientist,4,2201,No,3
+35,No,Research & Development,Life Sciences,496,Healthcare Representative,2,6540,No,1
+27,No,Research & Development,Medical,497,Laboratory Technician,2,3816,No,5
+28,No,Sales,Life Sciences,498,Sales Executive,4,5253,No,7
+49,No,Research & Development,Other,499,Healthcare Representative,3,10965,No,5
+51,No,Sales,Life Sciences,500,Sales Executive,4,4936,No,7
+36,No,Research & Development,Life Sciences,501,Research Scientist,3,2543,No,2
+34,Yes,Sales,Marketing,502,Sales Executive,4,5304,Yes,5
+55,No,Research & Development,Life Sciences,505,Manager,4,16659,Yes,5
+24,No,Sales,Marketing,507,Sales Executive,3,4260,Yes,5
+30,No,Sales,Technical Degree,508,Sales Representative,2,2476,No,1
+26,Yes,Research & Development,Technical Degree,510,Research Scientist,1,3102,No,6
+22,No,Research & Development,Medical,511,Research Scientist,2,2244,No,2
+36,No,Sales,Medical,513,Sales Executive,3,7596,No,10
+30,Yes,Research & Development,Technical Degree,514,Research Scientist,4,2285,Yes,1
+37,No,Research & Development,Life Sciences,515,Laboratory Technician,1,3034,No,18
+40,No,Sales,Marketing,516,Sales Executive,2,5715,No,5
+42,No,Research & Development,Life Sciences,517,Laboratory Technician,1,2576,No,5
+37,No,Research & Development,Life Sciences,518,Manufacturing Director,2,4197,Yes,1
+43,No,Research & Development,Life Sciences,520,Research Director,2,14336,No,25
+40,No,Research & Development,Medical,521,Laboratory Technician,3,3448,No,1
+54,No,Research & Development,Medical,522,Research Director,1,19406,No,4
+34,No,Sales,Marketing,523,Sales Executive,3,6538,No,3
+31,No,Research & Development,Medical,524,Manufacturing Director,1,4306,No,13
+43,No,Research & Development,Medical,525,Laboratory Technician,4,2258,No,3
+43,No,Research & Development,Other,526,Healthcare Representative,3,4522,Yes,5
+25,No,Sales,Life Sciences,527,Sales Executive,4,4487,Yes,5
+37,No,Research & Development,Medical,529,Research Scientist,3,4449,Yes,13
+31,No,Research & Development,Life Sciences,530,Laboratory Technician,1,2218,No,4
+39,No,Research & Development,Life Sciences,531,Manager,3,19197,Yes,21
+56,No,Sales,Life Sciences,532,Sales Executive,1,13212,No,7
+30,No,Sales,Technical Degree,533,Sales Executive,3,6577,No,5
+41,No,Sales,Marketing,534,Sales Executive,1,8392,No,10
+28,No,Research & Development,Medical,536,Laboratory Technician,1,4558,No,10
+25,Yes,Research & Development,Medical,538,Laboratory Technician,1,4031,No,2
+52,No,Research & Development,Medical,543,Manufacturing Director,3,7969,Yes,5
+45,No,Research & Development,Life Sciences,544,Research Scientist,4,2654,No,2
+52,No,Research & Development,Life Sciences,546,Manager,4,16555,No,5
+42,No,Research & Development,Life Sciences,547,Research Scientist,3,4556,No,5
+30,No,Research & Development,Life Sciences,548,Manufacturing Director,4,6091,No,5
+60,No,Research & Development,Life Sciences,549,Manager,1,19566,No,29
+46,No,Research & Development,Medical,550,Manufacturing Director,3,4810,No,10
+42,No,Research & Development,Technical Degree,551,Healthcare Representative,4,4523,No,6
+24,Yes,Sales,Technical Degree,554,Sales Representative,2,3202,Yes,5
+34,Yes,Sales,Marketing,555,Sales Representative,3,2351,No,2
+38,No,Research & Development,Life Sciences,556,Laboratory Technician,4,1702,Yes,1
+40,No,Sales,Life Sciences,558,Manager,3,18041,No,20
+26,No,Research & Development,Life Sciences,560,Research Scientist,4,2886,No,3
+30,No,Research & Development,Life Sciences,562,Laboratory Technician,4,2097,No,5
+29,No,Research & Development,Medical,564,Research Director,3,11935,No,10
+29,Yes,Research & Development,Technical Degree,565,Research Scientist,2,2546,No,2
+19,Yes,Human Resources,Technical Degree,566,Human Resources,4,2564,No,1
+30,No,Sales,Other,567,Sales Executive,1,8412,No,9
+57,No,Sales,Marketing,568,Manager,4,14118,No,1
+50,No,Research & Development,Life Sciences,569,Manager,3,17046,No,27
+30,No,Research & Development,Medical,571,Laboratory Technician,4,2564,No,11
+60,No,Sales,Marketing,573,Sales Executive,1,10266,No,18
+47,No,Research & Development,Medical,574,Manufacturing Director,4,5070,No,5
+46,No,Research & Development,Life Sciences,575,Research Director,3,17861,No,3
+35,No,Research & Development,Life Sciences,577,Laboratory Technician,3,4230,No,5
+54,No,Research & Development,Life Sciences,578,Laboratory Technician,3,3780,No,1
+34,No,Research & Development,Life Sciences,579,Research Scientist,3,2768,No,7
+46,No,Sales,Marketing,580,Sales Executive,4,9071,Yes,3
+31,No,Research & Development,Life Sciences,581,Manufacturing Director,2,10648,No,13
+33,Yes,Research & Development,Medical,582,Manager,3,13610,Yes,7
+33,Yes,Research & Development,Medical,584,Laboratory Technician,4,3408,No,4
+30,No,Sales,Marketing,585,Sales Representative,2,2983,No,3
+35,No,Research & Development,Life Sciences,586,Healthcare Representative,3,7632,Yes,8
+31,Yes,Research & Development,Life Sciences,587,Healthcare Representative,3,9824,No,1
+34,Yes,Human Resources,Human Resources,590,Human Resources,1,9950,Yes,3
+42,No,Research & Development,Other,591,Laboratory Technician,3,2093,No,2
+36,No,Sales,Medical,592,Sales Executive,4,9980,No,10
+22,Yes,Research & Development,Technical Degree,593,Laboratory Technician,3,3894,No,2
+48,No,Sales,Marketing,595,Sales Executive,4,4051,No,9
+55,No,Sales,Life Sciences,597,Manager,2,16835,No,10
+41,No,Sales,Life Sciences,599,Sales Executive,4,6230,No,14
+35,No,Sales,Marketing,600,Sales Executive,3,4717,No,11
+40,No,Research & Development,Life Sciences,601,Manufacturing Director,3,13237,No,20
+39,No,Research & Development,Life Sciences,602,Laboratory Technician,3,3755,No,8
+31,No,Sales,Life Sciences,604,Sales Executive,4,6582,Yes,6
+42,No,Research & Development,Medical,605,Manufacturing Director,1,7406,Yes,10
+45,No,Sales,Other,606,Sales Executive,2,4805,No,8
+26,Yes,Human Resources,Life Sciences,608,Human Resources,3,2741,Yes,7
+29,No,Research & Development,Technical Degree,611,Manufacturing Director,4,4262,No,3
+33,No,Research & Development,Medical,612,Research Director,3,16184,No,6
+31,No,Sales,Life Sciences,613,Manager,4,11557,No,5
+18,Yes,Sales,Marketing,614,Sales Representative,2,1878,Yes,0
+40,No,Sales,Other,615,Sales Executive,1,10932,No,1
+41,No,Research & Development,Other,616,Healthcare Representative,3,6811,Yes,8
+26,No,Sales,Medical,618,Sales Executive,3,4306,No,0
+35,No,Sales,Medical,620,Sales Executive,3,4859,No,5
+34,No,Sales,Life Sciences,621,Sales Executive,4,5337,No,10
+26,Yes,Research & Development,Technical Degree,622,Laboratory Technician,4,2340,Yes,1
+37,No,Research & Development,Technical Degree,623,Manufacturing Director,4,7491,No,6
+46,No,Research & Development,Medical,624,Healthcare Representative,3,10527,No,2
+41,No,Sales,Life Sciences,625,Manager,1,16595,No,18
+37,No,Sales,Medical,626,Sales Executive,2,8834,No,9
+52,No,Research & Development,Technical Degree,630,Research Scientist,1,5577,Yes,10
+32,Yes,Sales,Other,631,Sales Executive,3,4707,No,4
+24,No,Sales,Medical,632,Sales Representative,4,2400,No,2
+38,No,Research & Development,Medical,634,Healthcare Representative,3,9824,No,1
+37,No,Research & Development,Life Sciences,635,Manufacturing Director,2,6447,No,6
+49,No,Research & Development,Life Sciences,638,Research Director,3,19502,Yes,31
+24,No,Research & Development,Medical,639,Research Scientist,4,2725,Yes,6
+26,No,Sales,Marketing,641,Sales Executive,2,6272,No,5
+24,No,Research & Development,Other,643,Laboratory Technician,2,2127,No,1
+50,No,Human Resources,Medical,644,Manager,2,18200,No,32
+25,No,Sales,Medical,645,Sales Representative,3,2096,No,7
+24,Yes,Research & Development,Life Sciences,647,Laboratory Technician,3,2886,Yes,6
+30,Yes,Sales,Life Sciences,648,Sales Representative,1,2033,No,1
+34,No,Research & Development,Life Sciences,649,Research Scientist,4,3622,Yes,6
+31,Yes,Sales,Medical,650,Sales Executive,1,4233,No,3
+35,No,Research & Development,Other,652,Laboratory Technician,4,3681,No,3
+31,No,Sales,Medical,653,Sales Executive,4,5460,No,7
+27,No,Research & Development,Medical,655,Research Scientist,3,2187,No,5
+37,No,Sales,Marketing,656,Sales Executive,3,9602,Yes,3
+20,No,Research & Development,Life Sciences,657,Research Scientist,2,2836,No,1
+42,No,Research & Development,Life Sciences,659,Healthcare Representative,4,4089,No,10
+43,No,Research & Development,Other,661,Research Director,4,16627,Yes,1
+38,No,Research & Development,Life Sciences,662,Research Scientist,1,2619,No,0
+43,No,Research & Development,Medical,663,Laboratory Technician,3,5679,Yes,8
+48,No,Research & Development,Life Sciences,664,Manager,1,15402,No,3
+44,No,Human Resources,Life Sciences,665,Human Resources,3,5985,No,2
+34,No,Sales,Technical Degree,666,Sales Representative,3,2579,Yes,8
+27,Yes,Sales,Marketing,667,Sales Representative,1,3041,No,4
+21,No,Sales,Technical Degree,669,Sales Representative,3,3447,No,3
+44,No,Research & Development,Other,671,Manager,4,19513,Yes,2
+22,No,Research & Development,Medical,675,Research Scientist,3,2773,No,2
+33,No,Sales,Marketing,677,Sales Executive,3,7104,No,5
+32,No,Research & Development,Life Sciences,679,Research Scientist,4,6322,Yes,6
+30,No,Research & Development,Medical,680,Research Scientist,3,2083,No,1
+53,No,Sales,Medical,682,Sales Executive,1,8381,No,14
+34,No,Research & Development,Life Sciences,683,Research Scientist,4,2691,No,10
+45,Yes,Sales,Life Sciences,684,Sales Executive,1,4286,No,1
+26,No,Research & Development,Life Sciences,686,Laboratory Technician,4,2659,Yes,3
+37,No,Research & Development,Other,689,Manufacturing Director,3,9434,No,10
+29,No,Sales,Medical,690,Sales Executive,3,5561,No,6
+35,No,Research & Development,Life Sciences,691,Research Scientist,4,6646,No,17
+33,No,Research & Development,Life Sciences,692,Healthcare Representative,4,7725,No,13
+54,No,Human Resources,Medical,698,Human Resources,2,10725,No,9
+36,No,Research & Development,Medical,699,Manufacturing Director,2,8847,Yes,3
+27,No,Research & Development,Medical,700,Research Scientist,4,2045,No,4
+20,Yes,Research & Development,Medical,701,Research Scientist,3,1009,Yes,1
+33,Yes,Research & Development,Life Sciences,702,Research Scientist,1,3348,Yes,10
+35,No,Research & Development,Life Sciences,704,Laboratory Technician,3,1281,No,1
+23,No,Research & Development,Medical,705,Research Scientist,1,2819,No,3
+25,No,Sales,Life Sciences,707,Sales Executive,2,4851,No,3
+38,No,Sales,Marketing,709,Sales Executive,4,4028,No,7
+29,No,Research & Development,Life Sciences,710,Research Scientist,4,2720,No,10
+48,No,Sales,Marketing,712,Sales Executive,2,8120,No,2
+27,No,Sales,Medical,714,Sales Executive,4,4647,Yes,6
+37,No,Research & Development,Life Sciences,715,Research Scientist,4,4680,No,1
+50,No,Research & Development,Medical,716,Laboratory Technician,3,3221,Yes,20
+34,No,Research & Development,Medical,717,Healthcare Representative,2,8621,No,8
+24,Yes,Sales,Life Sciences,720,Sales Executive,3,4577,No,2
+39,No,Research & Development,Technical Degree,721,Healthcare Representative,3,4553,No,20
+32,No,Sales,Marketing,722,Sales Executive,4,5396,No,10
+50,Yes,Sales,Technical Degree,723,Sales Executive,3,6796,Yes,4
+38,No,Research & Development,Life Sciences,724,Healthcare Representative,4,7625,No,9
+27,No,Research & Development,Life Sciences,725,Manufacturing Director,1,7412,No,9
+32,No,Research & Development,Life Sciences,727,Research Director,4,11159,No,7
+47,No,Sales,Marketing,728,Sales Executive,1,4960,No,7
+40,No,Sales,Life Sciences,729,Sales Executive,1,10475,Yes,18
+53,No,Research & Development,Life Sciences,730,Research Director,3,14814,No,5
+41,No,Human Resources,Human Resources,731,Manager,4,19141,No,21
+60,No,Sales,Marketing,732,Sales Executive,1,5405,No,2
+27,No,Research & Development,Life Sciences,733,Manufacturing Director,1,8793,No,9
+41,No,Human Resources,Human Resources,734,Manager,3,19189,No,22
+50,No,Sales,Marketing,738,Sales Representative,2,3875,No,2
+28,Yes,Research & Development,Life Sciences,741,Research Scientist,2,2216,Yes,7
+36,No,Research & Development,Life Sciences,742,Research Director,1,11713,No,8
+38,No,Research & Development,Life Sciences,743,Manufacturing Director,3,7861,Yes,1
+44,No,Research & Development,Medical,744,Laboratory Technician,3,3708,No,5
+47,No,Sales,Medical,746,Sales Executive,3,13770,Yes,22
+30,No,Sales,Marketing,747,Sales Executive,4,5304,No,8
+29,No,Sales,Life Sciences,749,Sales Representative,3,2642,No,1
+42,Yes,Research & Development,Medical,752,Research Scientist,3,2759,Yes,2
+43,No,Sales,Life Sciences,754,Sales Executive,4,6804,No,2
+34,No,Research & Development,Medical,757,Healthcare Representative,3,6142,No,5
+23,No,Research & Development,Medical,758,Laboratory Technician,1,2500,No,4
+39,No,Human Resources,Human Resources,760,Human Resources,2,6389,No,8
+56,No,Research & Development,Medical,762,Healthcare Representative,4,11103,No,10
+40,No,Research & Development,Medical,763,Research Scientist,4,2342,Yes,4
+27,No,Research & Development,Medical,764,Healthcare Representative,1,6811,No,7
+29,No,Sales,Marketing,766,Sales Representative,2,2297,No,2
+53,No,Research & Development,Life Sciences,769,Laboratory Technician,4,2450,No,2
+35,No,Research & Development,Life Sciences,771,Healthcare Representative,1,5093,No,1
+32,No,Research & Development,Life Sciences,772,Laboratory Technician,4,5309,No,10
+38,No,Research & Development,Medical,773,Research Scientist,3,3057,Yes,1
+34,No,Research & Development,Life Sciences,775,Manufacturing Director,1,5121,No,0
+52,No,Sales,Marketing,776,Manager,1,16856,No,34
+33,Yes,Research & Development,Other,780,Research Scientist,4,2686,Yes,10
+25,No,Sales,Medical,781,Sales Executive,4,6180,No,6
+45,No,Sales,Technical Degree,783,Sales Representative,3,6632,No,8
+23,No,Research & Development,Medical,784,Research Scientist,3,3505,No,2
+47,Yes,Sales,Life Sciences,785,Sales Executive,3,6397,Yes,5
+34,No,Sales,Other,786,Sales Executive,4,6274,No,6
+55,Yes,Research & Development,Medical,787,Manager,1,19859,Yes,5
+36,No,Sales,Life Sciences,789,Sales Executive,1,7587,No,10
+52,No,Research & Development,Medical,791,Research Scientist,4,4258,No,4
+26,No,Research & Development,Life Sciences,792,Laboratory Technician,4,4364,No,2
+29,No,Research & Development,Medical,793,Healthcare Representative,3,4335,No,8
+26,Yes,Sales,Technical Degree,796,Sales Executive,1,5326,No,4
+34,No,Research & Development,Life Sciences,797,Research Scientist,4,3280,No,4
+54,No,Research & Development,Medical,799,Manufacturing Director,1,5485,Yes,5
+27,No,Sales,Marketing,800,Sales Executive,4,4342,No,4
+37,No,Research & Development,Life Sciences,802,Research Scientist,1,2782,Yes,5
+38,No,Research & Development,Life Sciences,803,Manufacturing Director,1,5980,Yes,15
+34,No,Research & Development,Medical,804,Research Scientist,1,4381,No,6
+35,No,Sales,Life Sciences,805,Sales Representative,4,2572,No,3
+30,No,Research & Development,Life Sciences,806,Laboratory Technician,3,3833,No,2
+40,No,Research & Development,Medical,807,Healthcare Representative,2,4244,No,8
+34,No,Sales,Life Sciences,808,Sales Executive,1,6500,No,3
+42,No,Research & Development,Life Sciences,809,Manager,4,18430,No,24
+23,Yes,Research & Development,Life Sciences,811,Laboratory Technician,1,1601,Yes,0
+24,No,Research & Development,Life Sciences,812,Laboratory Technician,2,2694,No,1
+52,No,Research & Development,Life Sciences,813,Laboratory Technician,3,3149,No,5
+50,No,Research & Development,Medical,815,Research Director,3,17639,No,4
+29,Yes,Research & Development,Life Sciences,816,Laboratory Technician,1,2319,Yes,1
+33,No,Research & Development,Medical,817,Research Director,3,11691,No,13
+33,Yes,Sales,Marketing,819,Sales Executive,1,5324,No,3
+47,No,Research & Development,Other,820,Manager,4,16752,Yes,26
+36,No,Research & Development,Other,823,Manufacturing Director,2,5228,No,9
+29,No,Research & Development,Life Sciences,824,Research Scientist,3,2700,No,10
+58,Yes,Research & Development,Life Sciences,825,Research Director,2,19246,Yes,31
+35,No,Research & Development,Life Sciences,826,Research Scientist,3,2506,No,2
+42,No,Research & Development,Life Sciences,827,Manufacturing Director,4,6062,Yes,4
+28,Yes,Research & Development,Medical,828,Research Scientist,3,4382,No,2
+36,No,Human Resources,Human Resources,829,Human Resources,2,2143,No,5
+32,No,Research & Development,Life Sciences,830,Manufacturing Director,3,6162,No,14
+40,No,Research & Development,Medical,832,Laboratory Technician,3,5094,No,1
+30,No,Research & Development,Medical,833,Manufacturing Director,4,6877,Yes,0
+45,No,Research & Development,Life Sciences,834,Research Scientist,3,2274,No,1
+42,No,Research & Development,Life Sciences,836,Manufacturing Director,2,4434,No,9
+38,No,Research & Development,Life Sciences,837,Healthcare Representative,1,6288,No,4
+34,No,Research & Development,Life Sciences,838,Research Scientist,4,2553,No,5
+49,Yes,Sales,Marketing,840,Sales Executive,4,7654,No,9
+55,Yes,Sales,Medical,842,Sales Executive,4,5160,No,9
+43,No,Research & Development,Life Sciences,843,Research Director,1,17159,No,4
+27,No,Research & Development,Technical Degree,844,Research Director,4,12808,Yes,9
+35,No,Research & Development,Other,845,Manufacturing Director,3,10221,No,8
+28,No,Sales,Marketing,846,Sales Executive,2,4779,Yes,8
+34,No,Human Resources,Human Resources,847,Human Resources,4,3737,No,3
+26,Yes,Research & Development,Medical,848,Research Scientist,3,2366,Yes,8
+27,No,Research & Development,Medical,850,Research Scientist,4,1706,No,0
+51,No,Sales,Marketing,851,Manager,3,16307,No,20
+44,No,Research & Development,Medical,852,Healthcare Representative,2,5933,No,5
+25,No,Research & Development,Medical,854,Research Scientist,1,3424,No,4
+33,No,Sales,Medical,855,Sales Executive,1,4037,No,9
+35,No,Research & Development,Medical,856,Research Scientist,1,2559,No,6
+36,No,Sales,Life Sciences,857,Sales Executive,4,6201,Yes,18
+32,No,Sales,Life Sciences,859,Sales Executive,4,4403,No,5
+30,No,Research & Development,Life Sciences,861,Research Scientist,4,3761,No,5
+53,No,Sales,Marketing,862,Sales Executive,4,10934,Yes,5
+45,No,Sales,Marketing,864,Sales Executive,1,10761,Yes,5
+32,No,Research & Development,Medical,865,Research Scientist,3,5175,No,5
+52,No,Research & Development,Medical,867,Manufacturing Director,4,13826,No,9
+37,No,Sales,Marketing,868,Sales Executive,3,6334,No,1
+28,No,Human Resources,Medical,869,Human Resources,4,4936,No,5
+22,No,Research & Development,Life Sciences,872,Manufacturing Director,4,4775,No,2
+44,No,Research & Development,Life Sciences,874,Laboratory Technician,4,2818,Yes,3
+42,No,Research & Development,Medical,875,Research Scientist,4,2515,Yes,2
+36,No,Human Resources,Life Sciences,878,Human Resources,1,2342,No,5
+25,No,Sales,Other,879,Sales Executive,1,4194,Yes,5
+35,No,Research & Development,Life Sciences,880,Manufacturing Director,3,10685,Yes,17
+35,Yes,Research & Development,Life Sciences,881,Research Scientist,2,2022,Yes,10
+32,No,Research & Development,Life Sciences,882,Laboratory Technician,4,2314,No,3
+25,No,Sales,Marketing,885,Sales Executive,1,4256,No,5
+49,No,Research & Development,Technical Degree,887,Research Scientist,1,3580,No,4
+24,No,Research & Development,Life Sciences,888,Laboratory Technician,4,3162,No,5
+32,No,Sales,Life Sciences,889,Sales Executive,2,6524,No,10
+38,No,Sales,Marketing,893,Sales Representative,2,2899,No,2
+42,No,Research & Development,Life Sciences,894,Laboratory Technician,4,5231,Yes,5
+31,No,Research & Development,Life Sciences,895,Research Scientist,4,2356,Yes,6
+29,Yes,Sales,Medical,896,Sales Representative,3,2800,Yes,3
+53,No,Sales,Marketing,897,Sales Executive,4,11836,No,2
+35,No,Research & Development,Technical Degree,899,Manufacturing Director,2,10903,No,13
+37,No,Sales,Medical,900,Sales Representative,4,2973,No,5
+53,No,Research & Development,Life Sciences,901,Research Director,4,14275,No,12
+43,No,Research & Development,Life Sciences,902,Healthcare Representative,4,5562,No,5
+47,No,Sales,Marketing,903,Sales Executive,4,4537,Yes,7
+37,No,Sales,Medical,904,Sales Executive,2,7642,Yes,10
+50,No,Research & Development,Life Sciences,905,Manager,1,17924,No,31
+39,No,Human Resources,Life Sciences,909,Human Resources,4,5204,No,5
+33,No,Human Resources,Human Resources,910,Human Resources,2,2277,Yes,4
+32,Yes,Research & Development,Life Sciences,911,Laboratory Technician,4,2795,Yes,1
+29,No,Research & Development,Medical,912,Laboratory Technician,4,2532,No,4
+44,No,Research & Development,Life Sciences,913,Research Scientist,1,2559,Yes,8
+28,No,Sales,Medical,916,Sales Executive,4,4908,No,4
+58,Yes,Research & Development,Life Sciences,918,Laboratory Technician,4,2380,Yes,1
+43,No,Research & Development,Life Sciences,920,Manufacturing Director,2,4765,No,1
+20,Yes,Sales,Medical,922,Sales Representative,3,2044,No,2
+21,Yes,Research & Development,Other,923,Research Scientist,4,2693,No,1
+36,No,Research & Development,Life Sciences,924,Healthcare Representative,4,6586,Yes,16
+47,No,Sales,Life Sciences,925,Sales Representative,4,3294,Yes,3
+22,Yes,Research & Development,Life Sciences,926,Manufacturing Director,3,4171,Yes,3
+41,Yes,Research & Development,Life Sciences,927,Laboratory Technician,4,2778,Yes,7
+28,No,Research & Development,Medical,930,Research Scientist,3,2377,No,2
+39,Yes,Research & Development,Medical,932,Laboratory Technician,1,2404,Yes,2
+27,No,Research & Development,Life Sciences,933,Research Scientist,3,2318,No,1
+34,No,Research & Development,Life Sciences,934,Laboratory Technician,2,2008,No,1
+42,No,Sales,Medical,936,Sales Executive,3,6244,No,5
+33,No,Research & Development,Other,939,Research Scientist,1,2799,Yes,3
+58,No,Research & Development,Technical Degree,940,Healthcare Representative,2,10552,Yes,6
+31,No,Sales,Life Sciences,941,Sales Representative,3,2329,No,7
+35,No,Research & Development,Life Sciences,942,Healthcare Representative,4,4014,Yes,10
+49,No,Research & Development,Other,944,Laboratory Technician,2,7403,No,26
+48,No,Research & Development,Medical,945,Research Scientist,3,2259,No,0
+31,No,Sales,Marketing,947,Sales Executive,3,6932,No,9
+36,No,Research & Development,Other,949,Research Scientist,4,4678,No,6
+38,No,Research & Development,Technical Degree,950,Research Director,1,13582,No,15
+32,No,Research & Development,Life Sciences,951,Laboratory Technician,2,2332,No,3
+25,Yes,Sales,Marketing,952,Sales Representative,2,2413,Yes,1
+40,No,Sales,Marketing,954,Sales Executive,2,9705,No,1
+26,No,Sales,Medical,956,Sales Executive,1,4294,No,7
+41,No,Research & Development,Medical,957,Laboratory Technician,1,4721,Yes,18
+36,No,Research & Development,Medical,958,Laboratory Technician,3,2519,No,11
+19,Yes,Sales,Other,959,Sales Representative,2,2121,Yes,1
+20,Yes,Research & Development,Technical Degree,960,Laboratory Technician,1,2973,No,1
+31,No,Research & Development,Medical,961,Healthcare Representative,4,5855,Yes,9
+40,No,Research & Development,Medical,964,Research Scientist,2,3617,Yes,1
+32,No,Research & Development,Medical,966,Manufacturing Director,1,6725,No,8
+36,Yes,Sales,Life Sciences,967,Sales Executive,4,10325,Yes,16
+33,No,Research & Development,Life Sciences,969,Healthcare Representative,4,6949,No,5
+37,Yes,Sales,Life Sciences,970,Sales Executive,3,10609,No,14
+45,No,Research & Development,Life Sciences,972,Laboratory Technician,2,4447,No,9
+29,No,Sales,Technical Degree,974,Sales Representative,4,2157,No,3
+35,No,Sales,Medical,975,Sales Executive,3,4601,No,5
+52,No,Research & Development,Life Sciences,976,Manager,4,17099,No,9
+58,Yes,Research & Development,Technical Degree,977,Research Scientist,3,2479,No,1
+53,No,Sales,Medical,981,Manager,3,14852,No,17
+30,No,Sales,Other,982,Sales Executive,3,7264,No,8
+38,No,Sales,Technical Degree,983,Sales Executive,4,5666,Yes,5
+35,No,Sales,Life Sciences,984,Sales Executive,4,7823,No,10
+39,No,Sales,Life Sciences,985,Sales Executive,3,7880,No,8
+40,Yes,Sales,Life Sciences,986,Sales Executive,2,13194,Yes,1
+47,No,Research & Development,Medical,987,Manufacturing Director,3,5067,Yes,19
+36,No,Sales,Technical Degree,990,Sales Executive,4,5079,No,7
+31,Yes,Research & Development,Medical,991,Research Scientist,1,2321,Yes,3
+33,No,Sales,Life Sciences,992,Manager,3,17444,No,10
+29,Yes,Research & Development,Life Sciences,994,Research Scientist,1,2404,Yes,0
+33,No,Research & Development,Life Sciences,995,Research Scientist,4,3452,No,3
+45,No,Research & Development,Medical,996,Laboratory Technician,4,2270,No,5
+50,No,Research & Development,Medical,997,Research Director,4,17399,No,5
+33,No,Research & Development,Other,998,Healthcare Representative,2,5488,Yes,6
+41,No,Research & Development,Medical,999,Research Director,3,19419,No,18
+27,No,Research & Development,Technical Degree,1001,Laboratory Technician,2,2811,No,2
+45,No,Research & Development,Life Sciences,1002,Laboratory Technician,1,3633,Yes,9
+47,No,Sales,Life Sciences,1003,Sales Executive,4,4163,Yes,9
+30,Yes,Research & Development,Life Sciences,1004,Research Scientist,3,2132,Yes,5
+50,No,Research & Development,Life Sciences,1005,Manufacturing Director,3,13973,Yes,12
+38,No,Research & Development,Medical,1006,Research Scientist,3,2684,No,2
+46,No,Research & Development,Medical,1007,Manufacturing Director,3,10845,No,8
+24,No,Research & Development,Medical,1009,Manufacturing Director,3,4377,No,4
+35,Yes,Research & Development,Other,1010,Laboratory Technician,2,3743,Yes,4
+31,No,Research & Development,Life Sciences,1011,Manufacturing Director,1,4148,No,4
+18,No,Research & Development,Life Sciences,1012,Research Scientist,4,1051,No,0
+54,No,Research & Development,Technical Degree,1013,Manufacturing Director,3,10739,No,10
+35,No,Research & Development,Medical,1014,Healthcare Representative,3,10388,Yes,16
+30,No,Research & Development,Life Sciences,1015,Research Director,1,11416,Yes,8
+20,Yes,Research & Development,Medical,1016,Research Scientist,1,2600,Yes,1
+30,Yes,Research & Development,Medical,1017,Laboratory Technician,2,2422,No,3
+26,No,Research & Development,Medical,1018,Manufacturing Director,4,5472,No,8
+22,No,Research & Development,Life Sciences,1019,Laboratory Technician,1,2451,No,4
+48,No,Research & Development,Life Sciences,1022,Healthcare Representative,3,4240,No,2
+48,No,Research & Development,Life Sciences,1024,Healthcare Representative,3,10999,No,15
+41,No,Research & Development,Medical,1025,Manufacturing Director,3,5003,No,2
+39,No,Research & Development,Life Sciences,1026,Manufacturing Director,4,12742,No,21
+27,No,Research & Development,Life Sciences,1027,Manufacturing Director,4,4227,No,3
+35,No,Research & Development,Other,1028,Laboratory Technician,4,3917,No,3
+42,No,Sales,Marketing,1029,Manager,3,18303,No,1
+50,No,Research & Development,Life Sciences,1030,Laboratory Technician,4,2380,No,1
+59,No,Research & Development,Life Sciences,1032,Manufacturing Director,4,13726,Yes,5
+37,Yes,Research & Development,Medical,1033,Healthcare Representative,2,4777,No,1
+55,No,Research & Development,Medical,1034,Healthcare Representative,2,6385,Yes,8
+41,No,Research & Development,Life Sciences,1035,Research Director,3,19973,No,21
+38,No,Sales,Life Sciences,1036,Sales Executive,4,6861,Yes,1
+26,Yes,Sales,Medical,1037,Sales Executive,1,4969,No,2
+52,Yes,Sales,Marketing,1038,Manager,4,19845,No,32
+44,No,Sales,Medical,1039,Sales Executive,4,13320,Yes,12
+50,No,Sales,Life Sciences,1040,Sales Executive,3,6347,No,18
+36,Yes,Research & Development,Life Sciences,1042,Laboratory Technician,1,2743,No,17
+39,No,Research & Development,Medical,1043,Manufacturing Director,1,10880,Yes,21
+33,No,Sales,Life Sciences,1044,Sales Representative,4,2342,No,2
+45,No,Sales,Life Sciences,1045,Manager,4,17650,No,9
+32,No,Research & Development,Medical,1046,Laboratory Technician,3,4025,No,8
+34,No,Sales,Marketing,1047,Sales Executive,4,9725,No,15
+59,No,Sales,Technical Degree,1048,Manager,4,11904,Yes,6
+45,No,Human Resources,Medical,1049,Human Resources,2,2177,No,6
+53,No,Sales,Marketing,1050,Sales Executive,2,7525,No,15
+36,Yes,Research & Development,Other,1052,Laboratory Technician,3,4834,No,1
+26,Yes,Research & Development,Life Sciences,1053,Research Scientist,1,2042,Yes,3
+34,No,Sales,Life Sciences,1055,Sales Representative,3,2220,Yes,1
+28,No,Sales,Medical,1056,Sales Representative,2,1052,No,1
+38,No,Research & Development,Other,1060,Research Scientist,3,2821,No,2
+50,No,Research & Development,Medical,1061,Research Director,3,19237,Yes,8
+37,No,Research & Development,Other,1062,Healthcare Representative,2,4107,No,4
+40,No,Sales,Marketing,1066,Sales Executive,1,8396,No,7
+26,No,Research & Development,Medical,1068,Research Scientist,3,2007,No,5
+46,No,Research & Development,Medical,1069,Research Director,4,19627,No,2
+54,No,Sales,Life Sciences,1070,Sales Executive,3,10686,No,9
+56,No,Research & Development,Medical,1071,Research Scientist,3,2942,No,5
+36,No,Research & Development,Medical,1073,Manufacturing Director,4,8858,No,14
+55,No,Research & Development,Medical,1074,Manager,1,16756,No,9
+43,No,Sales,Medical,1076,Sales Executive,4,10798,No,1
+20,Yes,Sales,Marketing,1077,Sales Representative,4,2323,Yes,2
+21,Yes,Research & Development,Life Sciences,1079,Laboratory Technician,1,1416,No,1
+46,No,Research & Development,Life Sciences,1080,Research Scientist,1,4615,Yes,16
+51,Yes,Research & Development,Life Sciences,1081,Research Scientist,3,2461,Yes,10
+28,Yes,Research & Development,Technical Degree,1082,Healthcare Representative,1,8722,No,10
+26,No,Research & Development,Medical,1083,Laboratory Technician,1,3955,No,5
+30,No,Research & Development,Other,1084,Manufacturing Director,1,9957,No,6
+41,No,Research & Development,Technical Degree,1085,Research Scientist,3,3376,No,10
+38,No,Research & Development,Life Sciences,1088,Healthcare Representative,3,8823,No,19
+40,No,Research & Development,Technical Degree,1092,Healthcare Representative,4,10322,No,11
+27,No,Research & Development,Life Sciences,1094,Laboratory Technician,3,4621,No,3
+55,No,Research & Development,Life Sciences,1096,Manufacturing Director,2,10976,No,3
+28,No,Research & Development,Other,1097,Research Scientist,3,3660,No,8
+44,Yes,Human Resources,Medical,1098,Human Resources,1,10482,No,20
+33,No,Research & Development,Life Sciences,1099,Healthcare Representative,4,7119,No,3
+35,Yes,Sales,Technical Degree,1100,Sales Executive,1,9582,Yes,8
+33,Yes,Research & Development,Medical,1101,Research Scientist,3,4508,No,13
+28,No,Research & Development,Life Sciences,1102,Laboratory Technician,3,2207,No,4
+34,No,Research & Development,Life Sciences,1103,Healthcare Representative,4,7756,No,6
+37,No,Sales,Life Sciences,1105,Sales Executive,4,6694,Yes,1
+25,Yes,Research & Development,Technical Degree,1106,Laboratory Technician,4,3691,Yes,7
+26,Yes,Research & Development,Medical,1107,Laboratory Technician,3,2377,No,1
+33,Yes,Research & Development,Medical,1108,Research Scientist,2,2313,Yes,2
+42,No,Research & Development,Medical,1109,Manager,1,17665,No,22
+28,Yes,Research & Development,Medical,1111,Laboratory Technician,2,2596,No,1
+50,Yes,Sales,Other,1113,Sales Executive,3,4728,Yes,0
+33,No,Sales,Life Sciences,1114,Sales Executive,2,4302,No,3
+34,No,Research & Development,Life Sciences,1115,Research Scientist,4,2979,No,0
+48,No,Research & Development,Medical,1116,Manager,4,16885,No,5
+45,No,Sales,Life Sciences,1117,Sales Executive,3,5593,No,15
+52,No,Research & Development,Life Sciences,1118,Healthcare Representative,2,10445,No,8
+38,No,Sales,Marketing,1119,Sales Executive,3,8740,Yes,8
+29,No,Research & Development,Life Sciences,1120,Research Scientist,4,2514,No,7
+28,No,Research & Development,Medical,1121,Manufacturing Director,2,7655,No,9
+46,No,Sales,Marketing,1124,Manager,3,17465,No,12
+38,No,Sales,Marketing,1125,Sales Executive,2,7351,No,1
+43,No,Research & Development,Life Sciences,1126,Manufacturing Director,1,10820,No,8
+39,Yes,Research & Development,Life Sciences,1127,Healthcare Representative,4,12169,No,18
+40,No,Research & Development,Medical,1128,Research Director,3,19626,No,20
+21,No,Research & Development,Technical Degree,1131,Research Scientist,2,2070,Yes,2
+39,No,Research & Development,Life Sciences,1132,Laboratory Technician,2,6782,No,5
+36,No,Research & Development,Life Sciences,1133,Manufacturing Director,4,7779,No,11
+31,No,Sales,Life Sciences,1135,Sales Representative,4,2791,No,2
+28,No,Research & Development,Life Sciences,1136,Research Scientist,2,3201,No,5
+35,No,Sales,Marketing,1137,Sales Executive,4,4968,No,5
+49,No,Sales,Technical Degree,1138,Sales Executive,2,13120,No,9
+34,No,Research & Development,Life Sciences,1140,Manufacturing Director,3,4033,No,3
+29,No,Research & Development,Life Sciences,1143,Research Scientist,2,3291,No,7
+42,No,Research & Development,Medical,1148,Laboratory Technician,4,4272,No,1
+29,No,Research & Development,Medical,1150,Manufacturing Director,4,5056,Yes,10
+38,No,Human Resources,Human Resources,1152,Human Resources,3,2844,No,7
+28,No,Research & Development,Life Sciences,1154,Research Scientist,3,2703,Yes,3
+18,Yes,Research & Development,Medical,1156,Laboratory Technician,3,1904,No,0
+33,Yes,Sales,Marketing,1157,Sales Executive,1,8224,Yes,5
+41,No,Research & Development,Life Sciences,1158,Laboratory Technician,4,4766,Yes,1
+31,Yes,Research & Development,Medical,1160,Laboratory Technician,3,2610,No,2
+37,No,Research & Development,Medical,1161,Healthcare Representative,4,5731,No,6
+27,No,Research & Development,Life Sciences,1162,Research Scientist,3,2539,No,4
+34,No,Sales,Life Sciences,1163,Sales Executive,3,5714,No,6
+35,No,Human Resources,Technical Degree,1164,Human Resources,3,4323,No,5
+29,Yes,Sales,Life Sciences,1165,Sales Executive,1,7336,No,11
+40,No,Research & Development,Medical,1166,Research Director,3,13499,No,18
+42,Yes,Sales,Life Sciences,1167,Sales Executive,1,13758,Yes,21
+42,No,Sales,Marketing,1171,Sales Executive,1,5155,No,6
+35,No,Research & Development,Medical,1172,Laboratory Technician,3,2258,No,8
+24,No,Research & Development,Medical,1173,Laboratory Technician,2,3597,No,4
+28,Yes,Research & Development,Life Sciences,1175,Laboratory Technician,4,2515,Yes,1
+26,No,Research & Development,Medical,1177,Laboratory Technician,4,4420,No,8
+30,No,Sales,Marketing,1179,Sales Executive,3,6578,No,10
+40,No,Research & Development,Medical,1180,Research Scientist,4,4422,Yes,1
+35,No,Research & Development,Life Sciences,1182,Manufacturing Director,2,10274,No,7
+34,No,Research & Development,Medical,1184,Healthcare Representative,1,5343,No,13
+35,No,Research & Development,Other,1185,Laboratory Technician,4,2376,No,2
+43,Yes,Sales,Marketing,1188,Sales Executive,3,5346,No,4
+32,No,Sales,Life Sciences,1190,Sales Representative,1,2827,No,1
+56,No,Research & Development,Technical Degree,1191,Manager,1,19943,No,5
+29,No,Research & Development,Medical,1192,Laboratory Technician,4,3131,No,10
+19,No,Research & Development,Life Sciences,1193,Research Scientist,1,2552,No,1
+45,No,Research & Development,Medical,1195,Research Scientist,3,4477,Yes,3
+37,No,Research & Development,Life Sciences,1196,Manufacturing Director,4,6474,No,14
+20,No,Research & Development,Life Sciences,1198,Laboratory Technician,3,3033,No,2
+44,Yes,Research & Development,Life Sciences,1200,Research Scientist,3,2936,Yes,6
+53,No,Research & Development,Medical,1201,Manager,3,18606,No,7
+29,No,Research & Development,Life Sciences,1202,Research Scientist,4,2168,Yes,5
+22,Yes,Research & Development,Life Sciences,1203,Research Scientist,4,2853,Yes,0
+46,No,Sales,Marketing,1204,Manager,1,17048,No,26
+44,No,Research & Development,Life Sciences,1206,Research Scientist,3,2290,No,0
+33,No,Human Resources,Human Resources,1207,Human Resources,3,3600,No,5
+41,Yes,Research & Development,Life Sciences,1210,Research Scientist,1,2107,No,1
+30,No,Sales,Life Sciences,1211,Sales Executive,1,4115,No,4
+40,No,Sales,Medical,1212,Sales Executive,2,4327,No,0
+50,No,Research & Development,Medical,1215,Manager,1,17856,No,2
+28,No,Research & Development,Medical,1216,Laboratory Technician,1,3196,No,6
+46,No,Research & Development,Life Sciences,1217,Research Director,2,19081,No,4
+35,No,Sales,Life Sciences,1218,Sales Executive,1,8966,Yes,7
+24,Yes,Research & Development,Life Sciences,1219,Laboratory Technician,2,2210,No,1
+33,No,Sales,Medical,1220,Sales Executive,3,4539,No,10
+36,No,Research & Development,Life Sciences,1221,Laboratory Technician,3,2741,No,7
+30,No,Research & Development,Life Sciences,1224,Laboratory Technician,3,3491,No,10
+44,No,Research & Development,Other,1225,Research Scientist,4,4541,No,20
+20,No,Sales,Marketing,1226,Sales Representative,4,2678,No,2
+46,No,Research & Development,Technical Degree,1228,Manufacturing Director,4,7379,No,6
+42,No,Human Resources,Medical,1231,Human Resources,1,6272,No,4
+60,No,Sales,Marketing,1233,Sales Executive,4,5220,Yes,11
+32,No,Research & Development,Other,1234,Laboratory Technician,2,2743,No,2
+32,No,Research & Development,Life Sciences,1235,Research Scientist,3,4998,Yes,8
+36,No,Research & Development,Technical Degree,1237,Manufacturing Director,1,10252,Yes,7
+33,No,Research & Development,Medical,1238,Research Scientist,4,2781,No,14
+40,No,Sales,Technical Degree,1239,Sales Executive,2,6852,No,5
+25,No,Sales,Life Sciences,1240,Sales Executive,4,4950,No,4
+30,No,Research & Development,Medical,1241,Research Scientist,2,3579,Yes,11
+42,No,Research & Development,Medical,1242,Research Director,1,13191,Yes,1
+35,No,Sales,Marketing,1243,Sales Executive,4,10377,Yes,13
+27,No,Research & Development,Life Sciences,1244,Research Scientist,1,2235,Yes,9
+54,No,Research & Development,Life Sciences,1245,Manufacturing Director,3,10502,No,5
+44,No,Research & Development,Life Sciences,1246,Research Scientist,4,2011,No,10
+19,Yes,Research & Development,Medical,1248,Research Scientist,2,1859,Yes,1
+29,No,Research & Development,Life Sciences,1249,Research Scientist,4,3760,No,3
+54,No,Research & Development,Life Sciences,1250,Research Director,4,17779,No,10
+31,No,Research & Development,Medical,1251,Healthcare Representative,1,6833,Yes,6
+31,No,Research & Development,Medical,1252,Healthcare Representative,1,6812,No,10
+59,No,Sales,Life Sciences,1254,Sales Executive,4,5171,No,6
+43,No,Research & Development,Life Sciences,1255,Research Director,4,19740,No,8
+49,No,Research & Development,Medical,1256,Manager,3,18711,No,1
+36,No,Research & Development,Technical Degree,1257,Research Scientist,2,3692,No,11
+48,No,Research & Development,Technical Degree,1258,Laboratory Technician,2,2559,No,1
+27,No,Research & Development,Life Sciences,1259,Research Scientist,3,2517,No,5
+29,No,Research & Development,Life Sciences,1260,Healthcare Representative,4,6623,Yes,6
+48,No,Research & Development,Life Sciences,1263,Research Director,4,18265,No,1
+29,No,Research & Development,Life Sciences,1264,Research Director,4,16124,No,7
+34,No,Research & Development,Technical Degree,1265,Research Scientist,3,2585,No,1
+44,No,Sales,Marketing,1267,Manager,2,18213,No,22
+33,No,Sales,Marketing,1268,Sales Executive,3,8380,Yes,9
+19,No,Research & Development,Life Sciences,1269,Research Scientist,4,2994,Yes,1
+23,No,Research & Development,Life Sciences,1270,Research Scientist,3,1223,No,1
+25,Yes,Sales,Life Sciences,1273,Sales Representative,4,1118,Yes,1
+26,No,Research & Development,Life Sciences,1275,Research Scientist,4,2875,Yes,8
+45,Yes,Sales,Marketing,1277,Manager,2,18824,Yes,24
+55,No,Research & Development,Medical,1278,Healthcare Representative,2,13577,Yes,33
+21,Yes,Research & Development,Life Sciences,1279,Laboratory Technician,3,2625,No,2
+46,No,Sales,Marketing,1280,Manager,2,18789,No,11
+34,No,Sales,Marketing,1281,Sales Executive,1,4538,Yes,3
+51,No,Sales,Life Sciences,1282,Manager,2,19847,Yes,29
+59,No,Research & Development,Medical,1283,Manufacturing Director,4,10512,No,9
+34,No,Research & Development,Medical,1285,Laboratory Technician,2,4444,No,11
+28,No,Research & Development,Medical,1286,Laboratory Technician,3,2154,Yes,4
+44,No,Research & Development,Life Sciences,1288,Manager,1,19190,No,25
+34,No,Human Resources,Life Sciences,1289,Human Resources,2,4490,No,10
+35,No,Research & Development,Life Sciences,1291,Research Scientist,3,3506,Yes,3
+42,No,Research & Development,Medical,1292,Research Scientist,2,2372,Yes,1
+43,No,Sales,Marketing,1293,Sales Executive,4,10231,No,21
+36,No,Research & Development,Life Sciences,1294,Manufacturing Director,2,5410,Yes,16
+44,Yes,Research & Development,Medical,1295,Healthcare Representative,4,7978,No,10
+28,No,Research & Development,Life Sciences,1296,Laboratory Technician,4,3867,Yes,2
+51,No,Research & Development,Medical,1297,Laboratory Technician,3,2838,No,7
+30,No,Research & Development,Medical,1298,Manufacturing Director,3,4695,Yes,8
+29,Yes,Research & Development,Technical Degree,1299,Laboratory Technician,3,3339,Yes,7
+28,No,Research & Development,Technical Degree,1301,Research Scientist,1,2080,No,3
+25,No,Research & Development,Medical,1303,Research Scientist,2,2096,No,2
+32,No,Sales,Medical,1304,Sales Executive,4,6209,No,10
+45,No,Research & Development,Medical,1306,Manager,2,18061,No,0
+39,No,Research & Development,Medical,1307,Manager,2,17123,Yes,19
+58,No,Research & Development,Life Sciences,1308,Research Scientist,3,2372,No,2
+32,Yes,Research & Development,Life Sciences,1309,Laboratory Technician,3,4883,No,10
+39,Yes,Research & Development,Medical,1310,Research Scientist,1,3904,No,5
+30,No,Research & Development,Technical Degree,1311,Laboratory Technician,4,4627,No,9
+36,No,Research & Development,Technical Degree,1312,Healthcare Representative,3,7094,No,7
+46,No,Human Resources,Life Sciences,1314,Human Resources,1,3423,No,7
+28,No,Research & Development,Life Sciences,1315,Laboratory Technician,4,6674,No,9
+50,No,Research & Development,Life Sciences,1317,Research Director,1,16880,Yes,3
+40,Yes,Sales,Marketing,1318,Sales Executive,2,9094,Yes,5
+52,Yes,Sales,Life Sciences,1319,Sales Executive,2,8446,Yes,8
+30,No,Research & Development,Medical,1321,Manager,1,11916,Yes,9
+39,No,Research & Development,Life Sciences,1322,Manufacturing Director,3,4534,No,8
+31,No,Sales,Life Sciences,1324,Sales Executive,3,9852,Yes,10
+41,No,Sales,Medical,1329,Sales Executive,2,6151,No,19
+31,Yes,Sales,Life Sciences,1331,Sales Representative,2,2302,Yes,3
+44,Yes,Research & Development,Life Sciences,1333,Laboratory Technician,1,2362,No,3
+42,No,Research & Development,Life Sciences,1334,Manager,3,17861,Yes,20
+55,No,Research & Development,Medical,1336,Manager,3,19187,No,19
+56,No,Human Resources,Life Sciences,1338,Manager,2,19717,No,7
+40,No,Research & Development,Life Sciences,1340,Research Scientist,3,3544,No,4
+34,No,Research & Development,Life Sciences,1344,Healthcare Representative,4,8500,No,9
+40,No,Research & Development,Life Sciences,1346,Research Scientist,4,4661,No,9
+41,No,Sales,Marketing,1349,Sales Executive,1,4103,No,9
+35,No,Research & Development,Life Sciences,1350,Research Scientist,3,4249,Yes,9
+51,No,Human Resources,Life Sciences,1352,Manager,2,14026,Yes,33
+38,No,Sales,Life Sciences,1355,Sales Executive,1,6893,No,7
+34,No,Sales,Medical,1356,Sales Executive,1,6125,No,10
+25,No,Research & Development,Medical,1358,Laboratory Technician,4,3669,No,3
+58,Yes,Research & Development,Medical,1360,Manufacturing Director,1,10008,Yes,10
+40,No,Research & Development,Life Sciences,1361,Laboratory Technician,2,2387,No,4
+36,No,Sales,Marketing,1362,Sales Executive,1,4639,No,15
+48,No,Research & Development,Life Sciences,1363,Manufacturing Director,4,7898,No,10
+27,No,Sales,Medical,1364,Sales Representative,4,2534,No,1
+51,No,Research & Development,Technical Degree,1367,Manufacturing Director,2,13142,No,5
+18,No,Research & Development,Life Sciences,1368,Laboratory Technician,4,1611,No,0
+35,No,Research & Development,Medical,1369,Laboratory Technician,4,5363,No,9
+27,No,Sales,Life Sciences,1371,Sales Executive,4,5071,No,6
+55,Yes,Sales,Marketing,1372,Sales Executive,3,13695,Yes,19
+56,No,Research & Development,Life Sciences,1373,Manufacturing Director,2,13402,Yes,19
+34,No,Research & Development,Technical Degree,1374,Research Scientist,3,2029,No,5
+40,No,Research & Development,Medical,1375,Healthcare Representative,3,6377,No,12
+34,No,Research & Development,Medical,1377,Laboratory Technician,3,5429,No,8
+31,Yes,Sales,Life Sciences,1379,Sales Representative,4,2785,No,1
+35,Yes,Sales,Marketing,1380,Sales Executive,3,4614,Yes,4
+38,No,Research & Development,Life Sciences,1382,Research Scientist,3,2610,No,4
+34,No,Research & Development,Technical Degree,1383,Healthcare Representative,4,6687,No,14
+28,No,Sales,Life Sciences,1387,Sales Executive,1,4724,No,5
+31,Yes,Research & Development,Medical,1389,Manufacturing Director,3,6179,Yes,10
+39,No,Sales,Life Sciences,1390,Sales Executive,4,6120,Yes,5
+51,No,Sales,Marketing,1391,Sales Executive,2,10596,No,4
+41,No,Research & Development,Life Sciences,1392,Research Scientist,4,5467,Yes,6
+37,No,Research & Development,Life Sciences,1394,Research Scientist,3,2996,Yes,6
+33,No,Sales,Life Sciences,1395,Sales Executive,4,9998,No,5
+32,No,Sales,Marketing,1396,Sales Executive,2,4078,Yes,3
+39,No,Research & Development,Life Sciences,1397,Healthcare Representative,3,10920,No,6
+25,No,Sales,Life Sciences,1399,Sales Executive,3,6232,No,3
+52,No,Research & Development,Medical,1401,Manufacturing Director,3,13247,Yes,5
+43,No,Research & Development,Medical,1402,Research Scientist,3,4081,Yes,20
+27,No,Sales,Marketing,1403,Sales Executive,4,5769,Yes,6
+27,Yes,Research & Development,Life Sciences,1405,Research Scientist,3,2394,Yes,8
+26,No,Research & Development,Medical,1407,Research Scientist,4,3904,No,4
+42,No,Human Resources,Human Resources,1408,Manager,1,16799,No,20
+52,No,Research & Development,Other,1409,Laboratory Technician,1,2950,No,5
+37,No,Research & Development,Medical,1411,Laboratory Technician,3,3629,No,3
+35,No,Research & Development,Life Sciences,1412,Manufacturing Director,4,9362,No,2
+25,No,Research & Development,Technical Degree,1415,Laboratory Technician,4,3229,No,3
+26,No,Research & Development,Other,1417,Laboratory Technician,1,3578,No,7
+29,No,Human Resources,Other,1419,Human Resources,1,7988,No,10
+49,Yes,Research & Development,Life Sciences,1420,Laboratory Technician,1,4284,No,4
+29,Yes,Research & Development,Other,1421,Healthcare Representative,4,7553,Yes,8
+54,No,Research & Development,Medical,1422,Research Director,4,17328,No,20
+58,No,Research & Development,Medical,1423,Research Director,1,19701,Yes,9
+55,No,Research & Development,Medical,1424,Research Director,4,14732,No,7
+36,No,Sales,Marketing,1425,Sales Executive,2,9278,Yes,5
+31,Yes,Sales,Life Sciences,1427,Sales Representative,3,1359,No,1
+30,No,Sales,Marketing,1428,Sales Executive,1,4779,No,3
+31,No,Research & Development,Life Sciences,1430,Research Director,2,16422,No,3
+34,No,Research & Development,Other,1431,Research Scientist,1,2996,No,4
+31,Yes,Research & Development,Life Sciences,1433,Research Scientist,2,1261,No,1
+27,No,Research & Development,Life Sciences,1434,Laboratory Technician,1,2099,No,5
+36,No,Research & Development,Life Sciences,1435,Laboratory Technician,4,5810,No,10
+36,No,Sales,Marketing,1436,Sales Executive,1,5647,No,3
+47,No,Research & Development,Technical Degree,1438,Research Scientist,4,3420,No,6
+25,Yes,Sales,Life Sciences,1439,Sales Representative,1,4400,No,3
+37,No,Research & Development,Technical Degree,1440,Laboratory Technician,3,3500,No,6
+56,No,Research & Development,Life Sciences,1441,Research Scientist,1,2066,No,3
+47,No,Research & Development,Medical,1443,Research Director,3,17169,No,20
+24,No,Sales,Medical,1445,Sales Executive,3,4162,Yes,5
+32,No,Sales,Marketing,1446,Sales Executive,4,9204,No,4
+34,No,Research & Development,Life Sciences,1447,Laboratory Technician,2,3294,No,5
+41,No,Research & Development,Medical,1448,Research Scientist,3,2127,Yes,4
+40,No,Research & Development,Other,1449,Laboratory Technician,3,3975,No,8
+31,No,Sales,Life Sciences,1453,Sales Executive,4,10793,No,13
+46,Yes,Sales,Marketing,1457,Sales Executive,4,10096,No,7
+39,Yes,Research & Development,Life Sciences,1458,Laboratory Technician,1,3646,Yes,1
+31,Yes,Research & Development,Life Sciences,1459,Manufacturing Director,2,7446,No,10
+45,No,Research & Development,Medical,1460,Healthcare Representative,1,10851,Yes,7
+31,No,Human Resources,Medical,1461,Human Resources,2,2109,No,3
+31,Yes,Research & Development,Life Sciences,1464,Laboratory Technician,4,3722,Yes,2
+45,No,Research & Development,Technical Degree,1465,Manufacturing Director,4,9380,Yes,3
+48,No,Sales,Marketing,1466,Sales Executive,1,5486,No,2
+34,Yes,Human Resources,Technical Degree,1467,Human Resources,3,2742,No,2
+40,No,Research & Development,Medical,1468,Research Director,2,13757,No,9
+28,No,Sales,Medical,1469,Sales Executive,1,8463,No,5
+44,No,Research & Development,Life Sciences,1471,Laboratory Technician,3,3162,No,5
+53,No,Research & Development,Medical,1472,Research Director,2,16598,No,9
+49,No,Research & Development,Technical Degree,1473,Healthcare Representative,3,6651,No,3
+40,No,Research & Development,Medical,1474,Research Scientist,3,2345,No,3
+44,No,Research & Development,Life Sciences,1475,Research Scientist,2,3420,No,5
+33,No,Sales,Medical,1477,Sales Executive,1,4373,No,4
+34,No,Sales,Other,1478,Sales Executive,1,4759,No,13
+30,No,Sales,Life Sciences,1479,Sales Executive,3,5301,No,2
+42,No,Research & Development,Medical,1480,Laboratory Technician,4,3673,No,12
+44,No,Sales,Marketing,1481,Sales Executive,3,4768,No,1
+30,No,Research & Development,Technical Degree,1482,Research Scientist,3,1274,No,1
+57,No,Research & Development,Life Sciences,1483,Research Scientist,3,4900,No,12
+49,No,Research & Development,Life Sciences,1484,Healthcare Representative,2,10466,No,8
+34,No,Research & Development,Medical,1485,Research Director,1,17007,No,14
+28,Yes,Sales,Technical Degree,1486,Sales Representative,3,2909,No,3
+29,Yes,Sales,Technical Degree,1487,Sales Executive,2,5765,No,5
+34,Yes,Sales,Medical,1489,Sales Executive,2,4599,Yes,15
+35,No,Sales,Life Sciences,1492,Sales Representative,3,2404,No,1
+24,Yes,Research & Development,Medical,1494,Laboratory Technician,1,3172,Yes,0
+24,No,Sales,Life Sciences,1495,Sales Representative,2,2033,No,1
+44,No,Research & Development,Medical,1496,Manufacturing Director,3,10209,Yes,2
+29,No,Sales,Life Sciences,1497,Sales Executive,3,8620,No,10
+30,No,Human Resources,Life Sciences,1499,Human Resources,3,2064,No,5
+55,No,Research & Development,Life Sciences,1501,Healthcare Representative,3,4035,Yes,3
+33,No,Research & Development,Medical,1502,Laboratory Technician,2,3838,No,5
+47,No,Sales,Medical,1503,Sales Executive,3,4591,Yes,5
+28,Yes,Research & Development,Medical,1504,Laboratory Technician,1,2561,No,0
+28,No,Research & Development,Life Sciences,1506,Research Scientist,3,1563,No,1
+28,No,Sales,Life Sciences,1507,Sales Executive,1,4898,No,4
+49,No,Research & Development,Medical,1509,Laboratory Technician,1,4789,No,3
+29,No,Research & Development,Life Sciences,1513,Laboratory Technician,2,3180,No,3
+28,No,Research & Development,Life Sciences,1514,Manufacturing Director,2,6549,No,8
+33,No,Research & Development,Life Sciences,1515,Healthcare Representative,3,6388,Yes,0
+32,No,Research & Development,Medical,1516,Manager,4,11244,No,5
+54,No,Research & Development,Medical,1520,Manager,4,16032,No,14
+29,Yes,Research & Development,Technical Degree,1522,Research Scientist,1,2362,No,9
+44,No,Research & Development,Life Sciences,1523,Research Director,1,16328,No,20
+39,No,Research & Development,Life Sciences,1525,Manufacturing Director,2,8376,No,2
+46,No,Sales,Life Sciences,1527,Manager,2,16606,No,13
+35,No,Research & Development,Life Sciences,1529,Healthcare Representative,2,8606,No,11
+23,No,Research & Development,Life Sciences,1533,Laboratory Technician,3,2272,No,4
+40,Yes,Research & Development,Life Sciences,1534,Laboratory Technician,1,2018,No,5
+34,No,Sales,Technical Degree,1535,Sales Executive,3,7083,Yes,10
+31,Yes,Research & Development,Life Sciences,1537,Research Scientist,3,4084,No,7
+50,No,Research & Development,Medical,1539,Research Director,4,14411,Yes,32
+34,No,Sales,Technical Degree,1541,Sales Representative,3,2308,Yes,11
+42,No,Research & Development,Medical,1542,Laboratory Technician,2,4841,No,1
+37,No,Research & Development,Medical,1543,Research Scientist,4,4285,No,10
+29,No,Research & Development,Other,1544,Healthcare Representative,1,9715,No,7
+33,No,Research & Development,Life Sciences,1545,Manufacturing Director,2,4320,No,5
+45,No,Research & Development,Technical Degree,1546,Research Scientist,4,2132,No,5
+42,No,Research & Development,Life Sciences,1547,Healthcare Representative,4,10124,Yes,20
+40,No,Sales,Medical,1548,Sales Executive,1,5473,No,8
+33,No,Research & Development,Life Sciences,1549,Laboratory Technician,3,5207,Yes,15
+40,No,Human Resources,Medical,1550,Manager,4,16437,Yes,21
+24,No,Research & Development,Technical Degree,1551,Laboratory Technician,1,2296,No,1
+40,No,Research & Development,Life Sciences,1552,Healthcare Representative,4,4069,Yes,2
+45,No,Research & Development,Technical Degree,1553,Healthcare Representative,2,7441,No,10
+35,No,Sales,Life Sciences,1554,Sales Representative,3,2430,No,5
+32,No,Research & Development,Life Sciences,1555,Research Scientist,2,5878,No,7
+36,No,Sales,Life Sciences,1556,Sales Representative,4,2644,Yes,3
+48,No,Sales,Life Sciences,1557,Sales Executive,3,6439,No,8
+29,No,Research & Development,Life Sciences,1558,Research Scientist,3,2451,No,1
+33,No,Sales,Life Sciences,1560,Sales Executive,1,6392,No,2
+30,Yes,Sales,Life Sciences,1562,Sales Executive,1,9714,No,10
+38,No,Human Resources,Human Resources,1563,Human Resources,3,6077,No,6
+35,No,Research & Development,Medical,1564,Laboratory Technician,1,2450,No,3
+30,No,Sales,Technical Degree,1568,Sales Executive,2,9250,No,4
+35,Yes,Research & Development,Life Sciences,1569,Laboratory Technician,1,2074,Yes,1
+53,Yes,Research & Development,Technical Degree,1572,Manufacturing Director,4,10169,No,33
+38,Yes,Research & Development,Medical,1573,Manufacturing Director,2,4855,No,5
+32,No,Research & Development,Technical Degree,1574,Research Scientist,1,4087,No,6
+48,No,Research & Development,Other,1576,Research Scientist,1,2367,No,8
+34,No,Research & Development,Medical,1577,Research Scientist,4,2972,No,1
+55,No,Sales,Marketing,1578,Manager,4,19586,No,36
+34,No,Research & Development,Life Sciences,1580,Research Scientist,4,5484,No,2
+26,No,Research & Development,Life Sciences,1581,Research Scientist,4,2061,No,1
+38,No,Sales,Life Sciences,1582,Sales Executive,2,9924,No,9
+38,No,Sales,Life Sciences,1583,Sales Executive,2,4198,No,3
+36,No,Sales,Life Sciences,1585,Sales Executive,3,6815,No,1
+29,No,Research & Development,Medical,1586,Laboratory Technician,1,4723,Yes,10
+35,No,Research & Development,Medical,1587,Healthcare Representative,3,6142,Yes,5
+39,No,Sales,Medical,1588,Sales Executive,3,8237,No,7
+29,No,Research & Development,Life Sciences,1590,Healthcare Representative,4,8853,No,6
+50,No,Sales,Marketing,1591,Manager,3,19331,Yes,1
+23,No,Research & Development,Technical Degree,1592,Research Scientist,3,2073,No,2
+36,No,Research & Development,Life Sciences,1594,Laboratory Technician,1,5562,Yes,3
+42,No,Research & Development,Other,1595,Manager,4,19613,No,1
+35,No,Research & Development,Life Sciences,1596,Laboratory Technician,3,3407,No,10
+34,No,Research & Development,Technical Degree,1597,Healthcare Representative,3,5063,No,8
+40,No,Sales,Life Sciences,1598,Sales Executive,1,4639,No,5
+43,No,Research & Development,Technical Degree,1599,Laboratory Technician,2,4876,No,6
+35,No,Research & Development,Life Sciences,1601,Laboratory Technician,4,2690,No,1
+46,No,Sales,Life Sciences,1602,Manager,1,17567,No,26
+28,Yes,Research & Development,Medical,1604,Laboratory Technician,2,2408,Yes,1
+22,No,Research & Development,Other,1605,Research Scientist,3,2814,Yes,4
+50,No,Research & Development,Medical,1606,Healthcare Representative,3,11245,Yes,30
+32,No,Research & Development,Other,1607,Research Scientist,4,3312,No,3
+44,No,Research & Development,Medical,1608,Research Director,4,19049,Yes,22
+30,No,Research & Development,Medical,1609,Research Scientist,2,2141,No,6
+45,No,Research & Development,Medical,1611,Laboratory Technician,1,5769,Yes,10
+45,No,Sales,Marketing,1612,Sales Executive,1,4385,No,10
+31,No,Sales,Other,1613,Sales Executive,1,5332,No,5
+36,No,Research & Development,Life Sciences,1614,Manufacturing Director,3,4663,Yes,3
+34,No,Research & Development,Life Sciences,1615,Manufacturing Director,4,4724,No,9
+49,No,Research & Development,Life Sciences,1617,Laboratory Technician,1,3211,No,9
+39,No,Research & Development,Medical,1618,Manufacturing Director,1,5377,No,7
+27,No,Research & Development,Other,1619,Laboratory Technician,1,4066,No,7
+35,No,Research & Development,Life Sciences,1621,Research Scientist,1,5208,No,16
+28,No,Research & Development,Medical,1622,Manufacturing Director,1,4877,No,5
+21,No,Research & Development,Medical,1623,Research Scientist,4,3117,No,2
+18,Yes,Sales,Medical,1624,Sales Representative,4,1569,Yes,0
+47,No,Human Resources,Life Sciences,1625,Manager,3,19658,No,5
+39,No,Research & Development,Medical,1627,Laboratory Technician,3,3069,No,10
+40,No,Research & Development,Life Sciences,1628,Manufacturing Director,3,10435,No,18
+35,No,Research & Development,Life Sciences,1630,Healthcare Representative,3,4148,No,14
+37,No,Research & Development,Life Sciences,1631,Manufacturing Director,3,5768,No,4
+39,No,Research & Development,Medical,1633,Manufacturing Director,3,5042,No,9
+45,No,Research & Development,Other,1635,Manufacturing Director,4,5770,No,10
+38,No,Research & Development,Medical,1638,Manufacturing Director,3,7756,Yes,5
+35,Yes,Sales,Medical,1639,Sales Executive,1,10306,No,13
+37,No,Research & Development,Medical,1640,Research Scientist,2,3936,No,8
+40,No,Research & Development,Life Sciences,1641,Manufacturing Director,4,7945,Yes,4
+44,No,Human Resources,Human Resources,1642,Human Resources,4,5743,Yes,10
+48,No,Research & Development,Medical,1644,Manager,4,15202,No,2
+35,Yes,Sales,Medical,1645,Sales Executive,4,5440,Yes,2
+24,No,Research & Development,Technical Degree,1646,Research Scientist,4,3760,Yes,6
+27,No,Research & Development,Medical,1647,Research Scientist,3,3517,No,3
+27,No,Research & Development,Medical,1648,Research Scientist,4,2580,No,4
+40,Yes,Research & Development,Life Sciences,1649,Laboratory Technician,1,2166,Yes,4
+29,No,Sales,Medical,1650,Sales Executive,3,5869,No,5
+36,No,Research & Development,Life Sciences,1651,Healthcare Representative,1,8008,No,3
+25,No,Research & Development,Life Sciences,1653,Manufacturing Director,3,5206,No,7
+39,No,Research & Development,Medical,1654,Manufacturing Director,2,5295,No,5
+49,No,Research & Development,Other,1655,Research Director,2,16413,No,4
+50,No,Research & Development,Life Sciences,1656,Research Director,1,13269,No,14
+20,No,Sales,Medical,1657,Sales Representative,3,2783,No,2
+34,No,Research & Development,Life Sciences,1658,Research Scientist,2,5433,No,11
+36,No,Research & Development,Life Sciences,1659,Laboratory Technician,2,2013,No,4
+49,No,Research & Development,Life Sciences,1661,Healthcare Representative,3,13966,Yes,15
+36,No,Research & Development,Medical,1662,Manufacturing Director,3,4374,No,3
+36,No,Research & Development,Life Sciences,1664,Healthcare Representative,1,6842,No,5
+54,No,Research & Development,Medical,1665,Manager,3,17426,No,10
+43,No,Research & Development,Life Sciences,1666,Research Director,3,17603,No,14
+35,Yes,Sales,Other,1667,Sales Executive,4,4581,Yes,11
+38,No,Research & Development,Life Sciences,1668,Research Scientist,4,4735,No,13
+29,No,Sales,Medical,1669,Sales Executive,2,4187,Yes,10
+33,No,Sales,Medical,1670,Sales Executive,4,5505,No,6
+32,No,Research & Development,Medical,1671,Research Scientist,2,5470,No,9
+31,No,Sales,Life Sciences,1673,Sales Executive,4,5476,No,10
+49,No,Research & Development,Medical,1674,Laboratory Technician,1,2587,Yes,2
+38,No,Research & Development,Medical,1675,Laboratory Technician,2,2440,No,4
+47,No,Sales,Life Sciences,1676,Manager,2,15972,No,3
+49,No,Research & Development,Life Sciences,1677,Manager,3,15379,No,8
+41,No,Sales,Life Sciences,1678,Sales Executive,3,7082,Yes,2
+20,No,Sales,Life Sciences,1680,Sales Representative,1,2728,No,2
+33,No,Sales,Life Sciences,1681,Sales Executive,4,5368,Yes,6
+36,No,Research & Development,Life Sciences,1682,Healthcare Representative,3,5347,No,3
+44,No,Human Resources,Life Sciences,1683,Human Resources,4,3195,Yes,2
+23,Yes,Research & Development,Medical,1684,Laboratory Technician,3,3989,Yes,5
+38,No,Research & Development,Medical,1687,Laboratory Technician,3,3306,No,0
+53,No,Research & Development,Medical,1689,Healthcare Representative,4,7005,No,4
+48,Yes,Sales,Medical,1691,Sales Representative,3,2655,Yes,9
+32,Yes,Research & Development,Life Sciences,1692,Laboratory Technician,2,1393,No,1
+26,No,Research & Development,Medical,1693,Laboratory Technician,4,2570,No,7
+55,No,Research & Development,Technical Degree,1694,Research Scientist,2,3537,No,4
+34,No,Research & Development,Medical,1696,Laboratory Technician,4,3986,No,15
+60,No,Research & Development,Medical,1697,Healthcare Representative,4,10883,No,1
+33,No,Research & Development,Medical,1698,Laboratory Technician,2,2028,No,14
+37,No,Sales,Medical,1700,Sales Executive,4,9525,No,6
+34,No,Research & Development,Life Sciences,1701,Research Scientist,4,2929,No,10
+23,Yes,Sales,Life Sciences,1702,Sales Representative,4,2275,Yes,3
+44,No,Research & Development,Life Sciences,1703,Healthcare Representative,4,7879,Yes,8
+35,No,Research & Development,Medical,1704,Research Scientist,4,4930,Yes,5
+43,No,Sales,Medical,1706,Sales Executive,4,7847,Yes,10
+24,No,Research & Development,Medical,1707,Research Scientist,3,4401,No,5
+41,No,Sales,Marketing,1708,Sales Executive,3,9241,No,10
+29,No,Research & Development,Medical,1709,Laboratory Technician,3,2974,No,5
+36,No,Sales,Life Sciences,1710,Sales Representative,4,4502,No,13
+45,No,Research & Development,Life Sciences,1712,Healthcare Representative,3,10748,No,23
+24,Yes,Human Resources,Human Resources,1714,Human Resources,3,1555,No,1
+47,Yes,Sales,Life Sciences,1716,Sales Executive,3,12936,No,23
+26,No,Research & Development,Medical,1718,Laboratory Technician,3,2305,No,3
+45,No,Research & Development,Technical Degree,1719,Research Director,2,16704,No,21
+32,No,Research & Development,Life Sciences,1720,Research Scientist,3,3433,No,5
+31,No,Research & Development,Life Sciences,1721,Laboratory Technician,3,3477,No,5
+41,No,Human Resources,Human Resources,1722,Human Resources,2,6430,No,3
+40,No,Research & Development,Life Sciences,1724,Manufacturing Director,1,6516,Yes,1
+24,No,Research & Development,Medical,1725,Laboratory Technician,1,3907,No,6
+46,No,Research & Development,Life Sciences,1727,Healthcare Representative,2,5562,No,10
+35,No,Research & Development,Life Sciences,1728,Manufacturing Director,3,6883,No,7
+30,No,Research & Development,Life Sciences,1729,Research Scientist,4,2862,No,10
+47,No,Sales,Marketing,1731,Sales Executive,2,4978,No,1
+46,No,Sales,Life Sciences,1732,Sales Executive,4,10368,Yes,10
+36,Yes,Sales,Marketing,1733,Sales Executive,1,6134,Yes,2
+32,Yes,Sales,Life Sciences,1734,Sales Executive,2,6735,No,0
+23,No,Research & Development,Medical,1735,Laboratory Technician,2,3295,No,3
+31,No,Research & Development,Technical Degree,1736,Manufacturing Director,4,5238,No,5
+39,No,Research & Development,Life Sciences,1737,Laboratory Technician,4,6472,Yes,9
+32,No,Sales,Life Sciences,1739,Sales Executive,3,9610,No,4
+40,No,Sales,Medical,1740,Manager,2,19833,No,21
+45,No,Human Resources,Life Sciences,1744,Human Resources,3,9756,No,5
+30,No,Research & Development,Technical Degree,1745,Research Scientist,1,4968,No,9
+24,No,Human Resources,Medical,1746,Human Resources,4,2145,No,2
+30,Yes,Human Resources,Human Resources,1747,Human Resources,4,2180,No,4
+31,No,Sales,Technical Degree,1749,Sales Executive,3,8346,No,5
+27,No,Research & Development,Medical,1751,Research Scientist,4,3445,No,6
+29,Yes,Sales,Marketing,1752,Sales Representative,2,2760,No,2
+29,No,Research & Development,Life Sciences,1753,Healthcare Representative,3,6294,Yes,3
+30,No,Sales,Marketing,1754,Sales Executive,1,7140,No,7
+34,No,Research & Development,Medical,1755,Research Scientist,4,2932,Yes,5
+33,No,Sales,Marketing,1756,Sales Executive,2,5147,No,11
+49,No,Sales,Marketing,1757,Sales Executive,4,4507,No,5
+33,Yes,Sales,Life Sciences,1758,Sales Executive,1,8564,Yes,0
+38,No,Research & Development,Medical,1760,Laboratory Technician,2,2468,No,6
+31,Yes,Sales,Marketing,1761,Sales Executive,3,8161,No,1
+29,No,Research & Development,Technical Degree,1762,Research Scientist,1,2109,No,1
+30,No,Research & Development,Life Sciences,1763,Healthcare Representative,3,5294,No,7
+32,No,Research & Development,Technical Degree,1764,Research Scientist,2,2718,No,7
+38,No,Research & Development,Medical,1766,Healthcare Representative,4,5811,Yes,1
+43,Yes,Research & Development,Technical Degree,1767,Research Scientist,3,2437,Yes,1
+42,No,Research & Development,Medical,1768,Laboratory Technician,2,2766,No,5
+55,No,Research & Development,Medical,1770,Research Director,1,19038,No,1
+33,No,Research & Development,Technical Degree,1771,Research Scientist,2,3055,No,9
+41,No,Research & Development,Life Sciences,1772,Laboratory Technician,1,2289,No,5
+34,No,Sales,Life Sciences,1774,Sales Executive,3,4001,Yes,15
+53,No,Research & Development,Medical,1775,Manufacturing Director,3,12965,Yes,3
+43,No,Human Resources,Life Sciences,1778,Human Resources,4,3539,No,9
+34,No,Sales,Life Sciences,1779,Sales Executive,4,6029,No,2
+21,Yes,Sales,Marketing,1780,Sales Representative,2,2679,No,1
+38,No,Research & Development,Other,1782,Laboratory Technician,3,3702,No,5
+22,Yes,Research & Development,Medical,1783,Laboratory Technician,1,2398,Yes,1
+31,No,Sales,Marketing,1784,Sales Executive,4,5468,No,12
+51,No,Research & Development,Technical Degree,1786,Manager,3,13116,No,2
+37,No,Sales,Marketing,1787,Sales Executive,2,4189,No,5
+46,No,Research & Development,Medical,1789,Research Director,4,19328,Yes,2
+36,No,Research & Development,Life Sciences,1790,Healthcare Representative,1,8321,Yes,12
+44,Yes,Research & Development,Medical,1792,Research Scientist,2,2342,Yes,5
+37,No,Human Resources,Other,1794,Human Resources,2,4071,No,10
+35,Yes,Sales,Life Sciences,1797,Sales Executive,4,5813,Yes,10
+33,No,Research & Development,Life Sciences,1798,Research Scientist,1,3143,No,10
+28,No,Research & Development,Life Sciences,1799,Research Scientist,4,2044,No,5
+39,No,Research & Development,Medical,1800,Research Director,3,13464,No,4
+46,No,Sales,Life Sciences,1801,Sales Executive,2,7991,No,2
+40,No,Research & Development,Life Sciences,1802,Laboratory Technician,1,3377,No,4
+42,No,Research & Development,Medical,1803,Healthcare Representative,1,5538,No,0
+35,No,Research & Development,Medical,1804,Manufacturing Director,4,5762,No,7
+38,No,Human Resources,Human Resources,1805,Human Resources,2,2592,No,11
+34,Yes,Research & Development,Life Sciences,1807,Laboratory Technician,1,5346,No,7
+37,Yes,Research & Development,Medical,1809,Manufacturing Director,1,4213,No,10
+39,No,Sales,Life Sciences,1812,Sales Executive,4,4127,No,2
+43,No,Research & Development,Life Sciences,1813,Research Scientist,3,2438,No,3
+41,No,Research & Development,Life Sciences,1814,Healthcare Representative,2,6870,No,3
+41,No,Sales,Marketing,1815,Sales Executive,3,10447,Yes,22
+30,No,Research & Development,Medical,1816,Manufacturing Director,3,9667,No,7
+26,Yes,Human Resources,Medical,1818,Human Resources,2,2148,Yes,5
+46,Yes,Research & Development,Medical,1821,Healthcare Representative,2,8926,No,9
+40,No,Research & Development,Life Sciences,1822,Healthcare Representative,4,6513,No,5
+34,No,Sales,Technical Degree,1823,Sales Executive,3,6799,No,10
+58,No,Sales,Medical,1824,Manager,2,16291,No,16
+35,No,Research & Development,Medical,1826,Laboratory Technician,3,2705,No,5
+47,No,Research & Development,Life Sciences,1827,Manufacturing Director,2,10333,Yes,22
+40,No,Research & Development,Life Sciences,1829,Healthcare Representative,1,4448,No,7
+54,No,Research & Development,Medical,1830,Research Scientist,4,6854,No,7
+31,No,Sales,Marketing,1833,Sales Executive,1,9637,No,3
+28,No,Research & Development,Medical,1834,Research Scientist,1,3591,No,3
+38,No,Sales,Marketing,1835,Sales Representative,4,5405,Yes,4
+26,No,Sales,Medical,1836,Sales Executive,4,4684,No,5
+58,No,Research & Development,Life Sciences,1837,Research Director,3,15787,Yes,2
+18,No,Research & Development,Medical,1839,Research Scientist,3,1514,No,0
+31,Yes,Human Resources,Human Resources,1842,Human Resources,1,2956,No,1
+29,Yes,Human Resources,Human Resources,1844,Human Resources,1,2335,Yes,2
+45,No,Sales,Life Sciences,1845,Sales Executive,3,5154,No,8
+36,No,Research & Development,Other,1847,Research Scientist,2,6962,Yes,1
+43,No,Sales,Life Sciences,1849,Sales Executive,4,5675,No,7
+27,No,Research & Development,Life Sciences,1850,Laboratory Technician,4,2379,Yes,5
+29,No,Research & Development,Medical,1852,Laboratory Technician,4,3812,No,11
+32,No,Sales,Marketing,1853,Sales Executive,4,4648,No,0
+42,No,Research & Development,Technical Degree,1854,Research Scientist,3,2936,No,6
+47,No,Research & Development,Life Sciences,1856,Laboratory Technician,3,2105,No,2
+46,No,Research & Development,Life Sciences,1857,Manufacturing Director,4,8578,No,9
+28,No,Human Resources,Life Sciences,1858,Human Resources,4,2706,No,3
+29,No,Research & Development,Life Sciences,1859,Healthcare Representative,3,6384,No,7
+42,No,Research & Development,Life Sciences,1860,Laboratory Technician,3,3968,No,0
+32,Yes,Sales,Marketing,1862,Sales Executive,2,9907,Yes,2
+46,No,Sales,Technical Degree,1863,Sales Executive,1,13225,No,19
+27,No,Sales,Medical,1864,Sales Representative,3,3540,No,9
+29,No,Human Resources,Medical,1865,Human Resources,2,2804,No,1
+43,No,Research & Development,Medical,1866,Manager,3,19392,No,16
+48,No,Research & Development,Life Sciences,1867,Research Director,2,19665,No,22
+29,Yes,Research & Development,Life Sciences,1868,Research Scientist,4,2439,Yes,1
+46,Yes,Sales,Life Sciences,1869,Sales Executive,2,7314,No,8
+27,No,Research & Development,Life Sciences,1870,Research Scientist,1,4774,No,7
+39,No,Research & Development,Other,1871,Research Scientist,4,3902,No,2
+55,No,Research & Development,Technical Degree,1873,Research Scientist,4,2662,No,5
+28,No,Sales,Medical,1875,Sales Representative,2,2856,No,1
+30,Yes,Sales,Medical,1876,Sales Representative,4,1081,No,1
+22,Yes,Research & Development,Life Sciences,1878,Research Scientist,2,2472,Yes,1
+36,No,Sales,Technical Degree,1880,Sales Executive,3,5673,Yes,10
+31,No,Research & Development,Life Sciences,1881,Laboratory Technician,3,4197,No,10
+34,No,Sales,Life Sciences,1882,Sales Executive,4,9713,Yes,5
+29,No,Research & Development,Life Sciences,1883,Laboratory Technician,1,2062,No,3
+37,No,Research & Development,Medical,1885,Research Scientist,1,4284,Yes,5
+35,No,Research & Development,Other,1886,Manufacturing Director,2,4788,Yes,3
+45,No,Research & Development,Life Sciences,1888,Manufacturing Director,4,5906,No,9
+36,No,Human Resources,Human Resources,1890,Human Resources,4,3886,No,10
+40,No,Research & Development,Life Sciences,1892,Manager,1,16823,No,19
+26,No,Research & Development,Life Sciences,1893,Research Scientist,3,2933,Yes,1
+27,No,Sales,Medical,1898,Sales Executive,3,6500,No,8
+48,No,Research & Development,Medical,1900,Manager,4,17174,No,22
+44,No,Research & Development,Life Sciences,1903,Healthcare Representative,1,5033,No,2
+34,Yes,Research & Development,Technical Degree,1905,Research Scientist,1,2307,Yes,5
+56,Yes,Research & Development,Life Sciences,1907,Laboratory Technician,4,2587,No,4
+36,No,Sales,Marketing,1908,Sales Executive,2,5507,No,4
+41,No,Sales,Marketing,1909,Sales Executive,2,4393,No,5
+42,No,Research & Development,Medical,1911,Research Director,1,13348,No,13
+31,No,Sales,Medical,1912,Sales Executive,4,6583,Yes,5
+34,No,Sales,Medical,1915,Sales Executive,4,8103,Yes,4
+31,No,Research & Development,Medical,1916,Laboratory Technician,3,3978,No,2
+26,No,Research & Development,Other,1918,Laboratory Technician,4,2544,No,7
+45,No,Research & Development,Medical,1922,Healthcare Representative,3,5399,No,4
+33,No,Sales,Marketing,1924,Sales Executive,3,5487,No,10
+28,No,Sales,Life Sciences,1927,Sales Executive,4,6834,Yes,7
+29,Yes,Sales,Technical Degree,1928,Sales Representative,1,1091,No,1
+39,No,Sales,Life Sciences,1929,Sales Executive,3,5736,No,3
+27,No,Research & Development,Technical Degree,1931,Research Scientist,2,2226,No,5
+34,No,Research & Development,Other,1932,Research Scientist,4,5747,Yes,15
+28,Yes,Sales,Marketing,1933,Sales Executive,3,9854,Yes,2
+47,No,Research & Development,Technical Degree,1934,Research Scientist,2,5467,No,8
+56,No,Sales,Marketing,1935,Sales Executive,1,5380,No,0
+39,No,Research & Development,Medical,1936,Manufacturing Director,1,5151,No,10
+38,No,Research & Development,Medical,1937,Research Scientist,2,2133,Yes,20
+58,No,Sales,Life Sciences,1938,Manager,4,17875,Yes,1
+32,Yes,Research & Development,Life Sciences,1939,Research Scientist,3,2432,Yes,4
+38,No,Research & Development,Life Sciences,1940,Research Scientist,4,4771,No,5
+49,No,Research & Development,Life Sciences,1941,Research Director,4,19161,No,5
+42,No,Sales,Marketing,1943,Sales Executive,4,5087,Yes,0
+27,Yes,Human Resources,Human Resources,1944,Human Resources,2,2863,No,1
+35,No,Sales,Medical,1945,Sales Executive,1,5561,No,5
+28,No,Research & Development,Medical,1947,Research Scientist,3,2144,No,5
+31,No,Research & Development,Medical,1948,Research Scientist,1,3065,Yes,4
+36,No,Research & Development,Life Sciences,1949,Laboratory Technician,2,2810,No,5
+34,No,Sales,Marketing,1950,Sales Executive,4,9888,No,14
+34,No,Sales,Medical,1951,Sales Executive,3,8628,No,8
+26,No,Research & Development,Medical,1952,Laboratory Technician,1,2867,No,7
+29,No,Research & Development,Life Sciences,1954,Healthcare Representative,1,5373,No,5
+32,No,Research & Development,Medical,1955,Healthcare Representative,4,6667,No,5
+31,No,Research & Development,Life Sciences,1956,Research Scientist,1,5003,No,10
+28,Yes,Research & Development,Technical Degree,1960,Laboratory Technician,4,2367,No,4
+38,No,Sales,Life Sciences,1961,Sales Representative,1,2858,No,1
+35,No,Sales,Life Sciences,1962,Sales Executive,4,5204,Yes,10
+27,No,Sales,Marketing,1965,Sales Executive,4,4105,No,7
+32,No,Research & Development,Life Sciences,1966,Manufacturing Director,4,9679,No,1
+31,Yes,Sales,Marketing,1967,Sales Executive,4,5617,Yes,10
+53,Yes,Sales,Life Sciences,1968,Sales Executive,1,10448,Yes,2
+54,No,Research & Development,Life Sciences,1969,Research Scientist,3,2897,No,4
+33,No,Research & Development,Life Sciences,1970,Healthcare Representative,3,5968,No,9
+43,No,Research & Development,Life Sciences,1971,Healthcare Representative,3,7510,No,10
+38,No,Human Resources,Other,1972,Human Resources,2,2991,Yes,6
+55,No,Human Resources,Human Resources,1973,Manager,2,19636,Yes,10
+31,No,Research & Development,Medical,1974,Laboratory Technician,4,1129,Yes,1
+39,No,Sales,Marketing,1975,Sales Executive,1,13341,No,20
+42,No,Research & Development,Life Sciences,1976,Research Scientist,3,4332,No,20
+31,No,Research & Development,Medical,1979,Research Director,3,11031,No,11
+54,No,Research & Development,Medical,1980,Manufacturing Director,1,4440,Yes,5
+24,No,Research & Development,Life Sciences,1981,Healthcare Representative,3,4617,No,4
+23,No,Research & Development,Other,1982,Laboratory Technician,4,2647,No,5
+40,No,Research & Development,Technical Degree,1985,Laboratory Technician,3,6323,No,10
+40,No,Sales,Marketing,1986,Sales Executive,2,5677,No,11
+25,No,Human Resources,Human Resources,1987,Human Resources,2,2187,No,2
+30,No,Research & Development,Medical,1989,Laboratory Technician,2,3748,No,12
+25,No,Research & Development,Other,1992,Laboratory Technician,3,3977,Yes,2
+47,No,Research & Development,Medical,1993,Healthcare Representative,3,8633,No,17
+33,No,Research & Development,Medical,1994,Laboratory Technician,3,2008,No,1
+38,No,Sales,Life Sciences,1995,Sales Executive,2,4440,No,15
+31,No,Sales,Life Sciences,1996,Sales Representative,3,3067,No,2
+38,No,Research & Development,Life Sciences,1997,Manufacturing Director,3,5321,No,8
+42,No,Research & Development,Life Sciences,1998,Research Scientist,1,5410,Yes,4
+41,No,Research & Development,Life Sciences,1999,Research Scientist,4,2782,No,5
+47,No,Research & Development,Medical,2000,Research Director,2,11957,No,13
+35,No,Research & Development,Medical,2003,Laboratory Technician,3,2660,Yes,2
+22,No,Research & Development,Life Sciences,2007,Research Scientist,3,3375,No,3
+35,No,Research & Development,Medical,2008,Research Scientist,3,5098,No,10
+33,No,Research & Development,Medical,2009,Healthcare Representative,4,4878,Yes,9
+32,No,Research & Development,Life Sciences,2010,Laboratory Technician,2,2837,No,6
+40,No,Research & Development,Life Sciences,2012,Laboratory Technician,4,2406,No,1
+32,No,Sales,Medical,2013,Sales Representative,2,2269,No,2
+39,No,Research & Development,Life Sciences,2014,Research Scientist,4,4108,No,7
+38,No,Research & Development,Medical,2015,Research Director,3,13206,No,18
+32,No,Sales,Marketing,2016,Sales Executive,4,10422,No,14
+37,No,Research & Development,Life Sciences,2017,Research Director,4,13744,Yes,16
+25,No,Sales,Other,2018,Sales Executive,3,4907,Yes,5
+52,No,Sales,Life Sciences,2019,Sales Representative,4,3482,No,9
+44,No,Research & Development,Medical,2020,Research Scientist,4,2436,Yes,4
+21,No,Sales,Medical,2021,Sales Representative,1,2380,Yes,2
+39,No,Research & Development,Life Sciences,2022,Manager,4,19431,No,6
+23,Yes,Sales,Marketing,2023,Sales Representative,1,1790,No,1
+36,No,Sales,Medical,2024,Sales Executive,4,7644,No,9
+36,No,Research & Development,Life Sciences,2025,Manufacturing Director,2,5131,No,4
+56,No,Research & Development,Life Sciences,2026,Healthcare Representative,3,6306,No,13
+29,Yes,Research & Development,Medical,2027,Research Scientist,4,4787,Yes,2
+42,No,Research & Development,Life Sciences,2031,Manager,3,18880,No,22
+56,Yes,Research & Development,Technical Degree,2032,Laboratory Technician,3,2339,No,10
+41,No,Research & Development,Life Sciences,2034,Manufacturing Director,2,13570,No,20
+34,No,Sales,Marketing,2035,Sales Executive,3,6712,No,8
+36,No,Sales,Marketing,2036,Sales Executive,4,5406,No,15
+41,No,Sales,Life Sciences,2037,Sales Executive,2,8938,No,5
+32,No,Research & Development,Technical Degree,2038,Research Scientist,1,2439,No,4
+35,No,Human Resources,Life Sciences,2040,Human Resources,4,8837,Yes,9
+38,No,Sales,Life Sciences,2041,Sales Executive,4,5343,No,10
+50,Yes,Sales,Life Sciences,2044,Sales Executive,3,6728,No,6
+36,No,Sales,Marketing,2045,Sales Executive,4,6652,No,6
+45,No,Sales,Life Sciences,2046,Sales Executive,3,4850,No,5
+40,No,Research & Development,Life Sciences,2048,Research Scientist,3,2809,No,2
+35,No,Research & Development,Life Sciences,2049,Healthcare Representative,3,5689,Yes,10
+40,No,Research & Development,Medical,2051,Research Scientist,3,2001,No,5
+35,No,Research & Development,Life Sciences,2052,Research Scientist,4,2977,No,4
+29,No,Research & Development,Other,2053,Laboratory Technician,2,4025,Yes,4
+29,No,Research & Development,Medical,2054,Research Scientist,1,3785,No,5
+50,Yes,Sales,Marketing,2055,Sales Executive,1,10854,Yes,3
+39,No,Sales,Marketing,2056,Sales Executive,4,12031,No,20
+31,No,Research & Development,Medical,2057,Manufacturing Director,1,9936,No,9
+26,No,Sales,Other,2060,Sales Representative,3,2966,No,4
+36,No,Research & Development,Medical,2061,Laboratory Technician,4,2571,No,5
+39,No,Research & Development,Medical,2062,Healthcare Representative,1,9991,No,7
+27,No,Research & Development,Life Sciences,2064,Manufacturing Director,2,6142,Yes,6
+49,No,Sales,Medical,2065,Sales Executive,2,5390,No,9
+34,No,Research & Development,Medical,2068,Laboratory Technician,3,4404,No,4
+-35,No,Research & Development,Medical,2069,Laboratory Technician,3,4404,No,4
+34,No,import argparse,Life Sciences,,Healthcare Representative,3,3333,No,5
+56,Yes,Sales,,,Laboratory Technician,4,3434,Yes,7
